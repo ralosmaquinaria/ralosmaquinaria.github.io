@@ -1,0 +1,41 @@
+User-agent: *
+Disallow: /mainFrameContact_form.htm
+Disallow: /mainLeftFrame.htm
+Disallow: /mainRightFrame.htm
+
+Disallow: /maquinas/clavar/maqUs_clavarTaconesSecuenciales_SABAL_300-10V-5.htm
+Disallow: /maquinas/clavar/maqUs_clavar-pinchos-a-horma_IronFox_IF-4500.htm
+Disallow: /maquinas/clavar/maqUs_clavar-planta-a-pinchos_IronFox_IF-4700-M.htm
+Disallow: /maquinas/clavar/maqNu_pie-de-trabajo-para-clavado-con-6-formas_P6F.htm
+Disallow: /maquinas/conformar/maqUs_conformarHuecosEnCalorYFrio_DISA-83.htm
+Disallow: /maquinas/compresores/maqUs_compresorTornillo_MARK_7-23MK.htm
+Disallow: /maquinas/coser/maqUs_maquinaCoser_REFREY_906.htm
+Disallow: /maquinas/coser/maqUs_maquinaCoserCortaHilos_ALFA_KM-235B.htm
+Disallow: /maquinas/coser/maqUs_maquinaCoserColumna_REFREY_901.htm
+Disallow: /maquinas/dividir/maqUs_dividirPiel_Camoga_cn401.htm
+Disallow: /maquinas/dobladillear/maqUs_dobladillear_COMELZ_COM4.htm
+Disallow: /maquinas/hornos/maqUs_hornoAcondicionador_EAS_60-F.htm
+Disallow: /maquinas/moldear/maqUs_moldearPalasDeBota_TRAP_T-30B.htm
+Disallow: /maquinas/moldear/maqUs_moldearTalonesCalor-Frio_V-85-ECF.htm
+Disallow: /maquinas/planchar/maqNu_plancharBotas_DISA_2005.htm
+Disallow: /maquinas/rayarCosturas/maqUs_rayarCosturasYPonerRefuerzoBotas_RECH_RC-300.htm
+Disallow: /maquinas/rebajar/maqUs_rebajarPiel_JINES_xxx.htm
+Disallow: /maquinas/sentarCantos/maqUs_sentarCantosYCosturas_GR.htm
+Disallow: /maquinas/timbrar/maqUs_timbrar-a-pedal_D-G.htm
+Disallow: /maquinas/timbrar/maqUs_timbrar-neumatica_D-G.htm
+Disallow: /maquinas/timbrar/maqNu_timbrarNeumatica_SANGAR.htm
+
+Disallow: /maquinas/limpiarCantos/
+Disallow: /maquinas/marcarCaja/
+Disallow: /maquinas/ponerLazo/
+Disallow: /maquinas/ponerOjetes
+Disallow: /maquinas/ponerTopes/
+Disallow: /maquinas/timbrar/
+Disallow: /maquinas/tunelesFrio/
+
+Disallow: /rss-xml.xsl
+Disallow: /images/
+Disallow: /temp/
+Disallow: /utilities/
+
+Sitemap: http://www.ralosmaquinaria.com/sitemap.xml

@@ -1,0 +1,36 @@
+#########
+# Paths #
+
+
+
+
+###########
+# Folders #
+
+_BIN/
+_BAK/
+_BKP/
+_IGN/
+_DEP/
+_DIS/
+_OLD/
+_OTHER/
+_PRINT/
+_RAW/
+_TEMP/
+_TMP/
+logs/
+
+
+##############
+# File Types #
+
+*.tif
+*.psd
+
+
+###########
+# Files #
+
+_NOTES.txt
+_TO-DO.txt
