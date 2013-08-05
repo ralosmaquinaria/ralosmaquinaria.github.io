@@ -315,7 +315,7 @@ body  sup, sub{
 	/*z-index:1;*/
 	visibility: visible;
 	overflow: hidden;
-	position: fixed;
+	/*position: fixed;*/ /*20130805: Commented, due to sudden Chrome resizing problem*/
 	padding: 0px;
 	margin: 0px;
 }
