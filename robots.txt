@@ -2,6 +2,7 @@ User-agent: *
 Disallow: /mainFrameContact_form.htm
 Disallow: /mainLeftFrame.htm
 Disallow: /mainRightFrame.htm
+Disallow: /rss-xml.xsl
 
 Disallow: /maquinas/clavar/maqUs_clavarTaconesSecuenciales_SABAL_300-10V-5.htm
 Disallow: /maquinas/clavar/maqUs_clavar-pinchos-a-horma_IronFox_IF-4500.htm
@@ -25,6 +26,7 @@ Disallow: /maquinas/timbrar/maqUs_timbrar-a-pedal_D-G.htm
 Disallow: /maquinas/timbrar/maqUs_timbrar-neumatica_D-G.htm
 Disallow: /maquinas/timbrar/maqNu_timbrarNeumatica_SANGAR.htm
 
+Disallow: /maquinas/_resources/
 Disallow: /maquinas/limpiarCantos/
 Disallow: /maquinas/marcarCaja/
 Disallow: /maquinas/ponerLazo/
@@ -33,9 +35,9 @@ Disallow: /maquinas/ponerTopes/
 Disallow: /maquinas/timbrar/
 Disallow: /maquinas/tunelesFrio/
 
-Disallow: /rss-xml.xsl
+Disallow: /_BAK/
+Disallow: /_TMP/
 Disallow: /images/
-Disallow: /temp/
 Disallow: /utilities/
 
 Sitemap: http://www.ralosmaquinaria.com/sitemap.xml

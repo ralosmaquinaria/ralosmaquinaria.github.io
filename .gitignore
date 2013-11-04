@@ -20,7 +20,9 @@ _RAW/
 _TEMP/
 _TMP/
 _notes/
+include/
 logs/
+tmp/
 
 
 ##############
@@ -35,3 +37,4 @@ logs/
 
 _NOTES.txt
 _TO-DO.txt
+connector.php
