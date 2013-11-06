@@ -117,14 +117,6 @@
 </url>
 
 <url>
-	<loc>http://www.ralosmaquinaria.com/maquinas/clavar/maqUs_clavar-plantas-a-horma-con-pinchos_IronFox_IF-4500_4700-M.htm</loc>
-	<image:image>
-		<image:loc>http://www.ralosmaquinaria.com/maquinas/clavar/maqUs_clavar-plantas-a-horma-con-pinchos_IronFox_IF-4500_4700-M_0m-v.jpg</image:loc>
-		<image:title>Clavar Plantas a Horma (con Pinchos) Iron Fox: IF 4500 y IF 4700 M (OCASIÓN)</image:title>
-	</image:image>
-</url>
-
-<url>
 	<loc>http://www.ralosmaquinaria.com/maquinas/colectores/maqUs_colectorDePolvo_FRAMAR.htm</loc>
 	<image:image>
 		<image:loc>http://www.ralosmaquinaria.com/maquinas/colectores/maqUs_colectorDePolvo_FRAMAR_01mTn.jpg</image:loc>
@@ -740,6 +732,14 @@
 	<image:image>
 		<image:loc>http://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_reactivador-de-suelas-tipo-parrilla_MEGO_1m-h.jpg</image:loc>
 		<image:title>Reactivador de Suelas tipo Parrilla MEGO (OCASIÓN)</image:title>
+	</image:image>
+</url>
+
+<url>
+	<loc>http://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_reactivador-de-suelas-compacto_MEGO.htm</loc>
+	<image:image>
+		<image:loc>http://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_reactivador-de-suelas-compacto_MEGO_1m-h.jpg</image:loc>
+		<image:title>Reactivador de Suelas Compacto tipo Parrilla MEGO (OCASIÓN)</image:title>
 	</image:image>
 </url>
 
