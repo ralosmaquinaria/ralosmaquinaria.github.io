@@ -39,5 +39,6 @@ Disallow: /_BAK/
 Disallow: /_TMP/
 Disallow: /images/
 Disallow: /utilities/
+Disallow: /temp/
 
 Sitemap: http://www.ralosmaquinaria.com/sitemap.xml
