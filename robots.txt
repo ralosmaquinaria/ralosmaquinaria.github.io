@@ -8,6 +8,7 @@ Disallow: /maquinas/clavar/maqUs_clavarTaconesSecuenciales_SABAL_300-10V-5.htm
 Disallow: /maquinas/clavar/maqUs_clavar-pinchos-a-horma_IronFox_IF-4500.htm
 Disallow: /maquinas/clavar/maqUs_clavar-planta-a-pinchos_IronFox_IF-4700-M.htm
 Disallow: /maquinas/clavar/maqNu_pie-de-trabajo-para-clavado-con-6-formas_P6F.htm
+Disallow: /maquinas/conformar/maqUs_conformarHuecos_DISA_DS-75.htm
 Disallow: /maquinas/conformar/maqUs_conformarHuecosEnCalorYFrio_DISA-83.htm
 Disallow: /maquinas/compresores/maqUs_compresorTornillo_MARK_7-23MK.htm
 Disallow: /maquinas/coser/maqUs_maquinaCoser_REFREY_906.htm

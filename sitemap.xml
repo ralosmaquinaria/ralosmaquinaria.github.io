@@ -157,6 +157,14 @@
 </url>
 
 <url>
+	<loc>http://www.ralosmaquinaria.com/maquinas/conformar/maqUs_conformar-huecos-calor_DISA_DS-75.htm</loc>
+	<image:image>
+		<image:loc>http://www.ralosmaquinaria.com/maquinas/conformar/maqUs_conformar-huecos-calor_DISA_DS-75_1m-v.jpg</image:loc>
+		<image:title>Conformar Huecos en Calor DISA DS-75 (OCASIÓN)</image:title>
+	</image:image>
+</url>
+
+<url>
 	<loc>http://www.ralosmaquinaria.com/maquinas/conformar/maqUs_conformar-huecos-calor-frio_DISA-83.htm</loc>
 	<image:image>
 		<image:loc>http://www.ralosmaquinaria.com/maquinas/conformar/maqUs_conformar-huecos-calor-frio_DISA-83_1m-v.jpg</image:loc>
@@ -171,22 +179,6 @@
 		<image:title>Conformar Huecos en Calor y Frío DISA-83 #2 (OCASIÓN)</image:title>
 	</image:image>
 </url>
-
-<url>
-	<loc>http://www.ralosmaquinaria.com/maquinas/conformar/maqUs_conformarHuecos_DISA_DS-75.htm</loc>
-	<image:image>
-		<image:loc>http://www.ralosmaquinaria.com/maquinas/conformar/maqUs_conformarHuecos_DISA_DS-75_01mTn.jpg</image:loc>
-		<image:title>Conformar Huecos en Calor DISA DS-75 (OCASIÓN)</image:title>
-	</image:image>
-</url>
-
-<!--<url>
-	<loc>http://www.ralosmaquinaria.com/maquinas/cortar/maqUs_cortarDeBrazoHidraulica_ATOM_S116.htm</loc>
-	<image:image>
-		<image:loc>http://www.ralosmaquinaria.com/maquinas/cortar/maqUs_cortarDeBrazoHidraulica_ATOM_S116_01mTn.jpg</image:loc>
-		<image:title>Cortar/Troquelar de Brazo Hidráulica ATOM S116 (OCASIÓN)</image:title>
-	</image:image>
-</url>-->
 
 <url>
 	<loc>http://www.ralosmaquinaria.com/maquinas/cortar/maqUs_troqueladora-brazo-hidraulica_fipi_FP-20.htm</loc>
