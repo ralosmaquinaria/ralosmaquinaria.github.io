@@ -23,6 +23,7 @@ Disallow: /maquinas/planchar/maqNu_plancharBotas_DISA_2005.htm
 Disallow: /maquinas/rayarCosturas/maqUs_rayarCosturasYPonerRefuerzoBotas_RECH_RC-300.htm
 Disallow: /maquinas/rebajar/maqUs_rebajarPiel_JINES_xxx.htm
 Disallow: /maquinas/sentarCantos/maqUs_sentarCantosYCosturas_GR.htm
+Disallow: /maquinas/termoformadoras/maqNu_termoformadoraEnPvc_FORMAT.htm
 Disallow: /maquinas/timbrar/maqUs_timbrar-a-pedal_D-G.htm
 Disallow: /maquinas/timbrar/maqUs_timbrar-neumatica_D-G.htm
 Disallow: /maquinas/timbrar/maqNu_timbrarNeumatica_SANGAR.htm
