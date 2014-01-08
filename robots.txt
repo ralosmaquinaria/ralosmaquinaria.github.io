@@ -19,6 +19,7 @@ Disallow: /maquinas/dobladillear/maqUs_dobladillear_COMELZ_COM4.htm
 Disallow: /maquinas/hornos/maqUs_hornoAcondicionador_EAS_60-F.htm
 Disallow: /maquinas/moldear/maqUs_moldearPalasDeBota_TRAP_T-30B.htm
 Disallow: /maquinas/moldear/maqUs_moldearTalonesCalor-Frio_V-85-ECF.htm
+Disallow: /maquinas/montar/maqUs_montarConTenaza_xxx.htm
 Disallow: /maquinas/planchar/maqNu_plancharBotas_DISA_2005.htm
 Disallow: /maquinas/rayarCosturas/maqUs_rayarCosturasYPonerRefuerzoBotas_RECH_RC-300.htm
 Disallow: /maquinas/rebajar/maqUs_rebajarPiel_JINES_xxx.htm
