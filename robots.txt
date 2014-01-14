@@ -4,6 +4,8 @@ Disallow: /mainLeftFrame.htm
 Disallow: /mainRightFrame.htm
 Disallow: /rss-xml.xsl
 
+Disallow: /maquinas/cabinas/maqNu_cabina-de-dar-cola_ESCOLANO_EM201.htm
+Disallow: /maquinas/cabinas/maqUs_cabinaDarCola_VT-380.htm
 Disallow: /maquinas/clavar/maqUs_clavarTaconesSecuenciales_SABAL_300-10V-5.htm
 Disallow: /maquinas/clavar/maqUs_clavar-pinchos-a-horma_IronFox_IF-4500.htm
 Disallow: /maquinas/clavar/maqUs_clavar-planta-a-pinchos_IronFox_IF-4700-M.htm

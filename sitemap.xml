@@ -45,9 +45,9 @@
 </url>
 
 <url><!--MANTENER! Pues esta primera entrada no aparece en el Sitemap final.-->
-	<loc>http://www.ralosmaquinaria.com/maquinas/cabinas/maqNu_cabinaDarCola_ESCOLANO_EM201.htm</loc>
+	<loc>http://www.ralosmaquinaria.com/maquinas/cabinas/maqNu_cabina-de-dar-cola_ESCOLANO_EM201.htm</loc>
 	<image:image> <!--Incluye toda la información sobre una imagen única. Cada URL (etiqueta <loc>) puede incluir un máximo de 1.000 etiquetas <image:image>.-->
-		<image:loc>http://www.ralosmaquinaria.com/maquinas/cabinas/maqNu_cabinaDarCola_ESCOLANO_EM201_01mTn.jpg</image:loc> <!--Es la URL de la imagen.-->
+		<image:loc>http://www.ralosmaquinaria.com/maquinas/cabinas/maqNu_cabina-de-dar-cola_ESCOLANO_EM201_1m-v.jpg</image:loc> <!--Es la URL de la imagen.-->
 		<image:title>Cabina para Dar Cola al Zapato ESCOLANO EM201 (NUEVA)</image:title> <!--Es el título de la imagen (opcional).-->
 	</image:image>
 </url>
@@ -61,9 +61,9 @@
 </url>
 
 <url>
-	<loc>http://www.ralosmaquinaria.com/maquinas/cabinas/maqUs_cabinaDarCola_VT-380.htm</loc>
+	<loc>http://www.ralosmaquinaria.com/maquinas/cabinas/maqUs_cabina-de-dar-cola_VT-380.htm</loc>
 	<image:image>
-		<image:loc>http://www.ralosmaquinaria.com/maquinas/cabinas/maqUs_cabinaDarCola_VT-380_01mTn.jpg</image:loc>
+		<image:loc>http://www.ralosmaquinaria.com/maquinas/cabinas/maqUs_cabina-de-dar-cola_VT-380_VT-380_1m-v.jpg</image:loc>
 		<image:title>Cabina para Dar Cola al Zapato VT-380 (OCASIÓN)</image:title>
 	</image:image>
 </url>
