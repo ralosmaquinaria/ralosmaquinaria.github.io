@@ -23,6 +23,10 @@ Disallow: /maquinas/coser/maqUs_maquinaCoserCortaHilos_ALFA_KM-235B.htm
 Disallow: /maquinas/coser/maqUs_maquinaCoserColumna_REFREY_901.htm
 Disallow: /maquinas/dividir/maqUs_dividirPiel_Camoga_cn401.htm
 Disallow: /maquinas/dobladillear/maqUs_dobladillear_COMELZ_COM4.htm
+Disallow: /maquinas/encolar/maqNu_grupoDarLatex1.htm
+Disallow: /maquinas/encolar/maqUs_encolarCorte_M-410.htm
+Disallow: /maquinas/grapar/maqUs_graparPlantas_001.htm
+Disallow: /maquinas/grapar/maqUs_graparPlantas_002.htm
 Disallow: /maquinas/hornos/maqUs_hornoAcondicionador_EAS_60-F.htm
 Disallow: /maquinas/moldear/maqUs_moldearPalasDeBota_TRAP_T-30B.htm
 Disallow: /maquinas/moldear/maqUs_moldearTalonesCalor-Frio_V-85-ECF.htm
