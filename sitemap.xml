@@ -350,42 +350,18 @@
 </url>
 
 <url>
-	<loc>http://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquinaDeLijarConPie_SUPERLEMA.htm</loc>
+	<loc>http://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquina-de-lijar-con-pie_SUPERLEMA.htm</loc>
 	<image:image>
-		<image:loc>http://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquinaDeLijarConPie_SUPERLEMA_01mTn.jpg</image:loc>
+		<image:loc>http://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquina-de-lijar-con-pie_SUPERLEMA_1m-v.jpg</image:loc>
 		<image:title>Máquina de Lijar (o Lijadora) con Pie SUPERLEMA (OCASIÓN)</image:title>
 	</image:image>
 </url>
 
 <url>
-	<loc>http://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquinaDeLijar_DISA-9x.htm</loc>
+	<loc>http://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquina-de-lijar_DISA-9X.htm</loc>
 	<image:image>
-		<image:loc>http://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquinaDeLijar_DISA-9x_01mTn.jpg</image:loc>
-		<image:title>Máquina de Lijar (o Lijadora) DISA-9x (OCASIÓN)</image:title>
-	</image:image>
-</url>
-
-<url>
-	<loc>http://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquinaDePulir_DISA-94.htm</loc>
-	<image:image>
-		<image:loc>http://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquinaDePulir_DISA-94_01mTn.jpg</image:loc>
-		<image:title>Máquina de Pulir (o Pulidora) DISA-94 (OCASIÓN)</image:title>
-	</image:image>
-</url>
-
-<url>
-	<loc>http://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquinaDePulir_DISA-9x.htm</loc>
-	<image:image>
-		<image:loc>http://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquinaDePulir_DISA-9x_01mTn.jpg</image:loc>
-		<image:title>Máquina de Pulir (o Pulidora) DISA-9x (OCASIÓN)</image:title>
-	</image:image>
-</url>
-
-<url>
-	<loc>http://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquinaDePulir_RAN_JVL-81.htm</loc>
-	<image:image>
-		<image:loc>http://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquinaDePulir_RAN_JVL-81_01mTn.jpg</image:loc>
-		<image:title>Máquina de Pulir (o Pulidora) RAN JVL-81 (OCASIÓN)</image:title>
+		<image:loc>http://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquina-de-lijar_DISA-9X_1m-v.jpg</image:loc>
+		<image:title>Máquina de Lijar (o Lijadora) DISA-9X (OCASIÓN)</image:title>
 	</image:image>
 </url>
 
@@ -394,6 +370,30 @@
 	<image:image>
 		<image:loc>http://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquina-de-lijar_ST_1m-v.jpg</image:loc>
 		<image:title>Máquina de Lijar (o Lijadora) ST (OCASIÓN)</image:title>
+	</image:image>
+</url>
+
+<url>
+	<loc>http://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquina-de-pulir_DISA-94.htm</loc>
+	<image:image>
+		<image:loc>http://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquina-de-pulir_DISA-94_1m-v.jpg</image:loc>
+		<image:title>Máquina de Pulir (o Pulidora) DISA-94 (OCASIÓN)</image:title>
+	</image:image>
+</url>
+
+<url>
+	<loc>http://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquina-de-pulir_DISA-9X.htm</loc>
+	<image:image>
+		<image:loc>http://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquina-de-pulir_DISA-9X_1m-v.jpg</image:loc>
+		<image:title>Máquina de Pulir (o Pulidora) DISA-9X (OCASIÓN)</image:title>
+	</image:image>
+</url>
+
+<url>
+	<loc>http://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquina-de-pulir_RAN_JVL-81.htm</loc>
+	<image:image>
+		<image:loc>http://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquina-de-pulir_RAN_JVL-81_1m-v.jpg</image:loc>
+		<image:title>Máquina de Pulir (o Pulidora) RAN JVL-81 (OCASIÓN)</image:title>
 	</image:image>
 </url>
 

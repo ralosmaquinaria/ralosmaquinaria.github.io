@@ -33,6 +33,11 @@ Disallow: /maquinas/hornos/maqUs_hornoAcondicionador_BDF_HS-30.htm
 Disallow: /maquinas/hornos/maqUs_hornoAcondicionador_EAS_60-F.htm
 Disallow: /maquinas/hornos/maqUs_hornoAcondicionador_elvi_FO-1021.htm
 Disallow: /maquinas/hornos/maqUs_hornoAcondicionador_RaLoS_SP-86-2V.htm
+Disallow: /maquinas/lijar-pulir/maqUs_maquinaDeLijarConPie_SUPERLEMA.htm
+Disallow: /maquinas/lijar-pulir/maqUs_maquinaDeLijar_DISA-9x.htm
+Disallow: /maquinas/lijar-pulir/maqUs_maquinaDePulir_DISA-94.htm
+Disallow: /maquinas/lijar-pulir/maqUs_maquinaDePulir_DISA-9x.htm
+Disallow: /maquinas/lijar-pulir/maqUs_maquinaDePulir_RAN_JVL-81.htm
 Disallow: /maquinas/moldear/maqUs_moldearPalasDeBota_TRAP_T-30B.htm
 Disallow: /maquinas/moldear/maqUs_moldearTalonesCalor-Frio_V-85-ECF.htm
 Disallow: /maquinas/montar/maqUs_montarConTenaza_xxx.htm
