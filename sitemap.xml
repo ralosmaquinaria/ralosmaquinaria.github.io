@@ -44,6 +44,7 @@
 	<changefreq>daily</changefreq>
 </url>
 
+<!--googleoff: all-->
 <url><!--MANTENER! Pues esta primera entrada no aparece en el Sitemap final.-->
 	<loc>http://www.ralosmaquinaria.com/maquinas/cabinas/maqNu_cabina-de-dar-cola_ESCOLANO_EM201.htm</loc>
 	<image:image> <!--Incluye toda la información sobre una imagen única. Cada URL (etiqueta <loc>) puede incluir un máximo de 1.000 etiquetas <image:image>.-->
@@ -51,6 +52,7 @@
 		<image:title>Cabina para Dar Cola al Zapato ESCOLANO EM201 (NUEVA)</image:title> <!--Es el título de la imagen (opcional).-->
 	</image:image>
 </url>
+<!--googleon: all-->
 
 <url>
 	<loc>http://www.ralosmaquinaria.com/maquinas/reparar/maqNu_banco-finisaje-con-prensa_ASPIRA_plus.htm</loc>
@@ -799,10 +801,10 @@
 </url>
 
 <url>
-	<loc>http://www.ralosmaquinaria.com/maquinas/rebatir/maqUs_rebatir-con-rodillo-de-anillas_ASPERIA.htm</loc>
+	<loc>http://www.ralosmaquinaria.com/maquinas/rebatir/maqUs_rebatir-con-rodillo-de-anillas_HESPERIA.htm</loc>
 	<image:image>
-		<image:loc>http://www.ralosmaquinaria.com/maquinas/rebatir/maqUs_rebatir-con-rodillo-de-anillas_ASPERIA_1m-v.jpg</image:loc>
-		<image:title>Rebatir Zapato con Rodillo de Anillas ASPERIA (OCASIÓN)</image:title>
+		<image:loc>http://www.ralosmaquinaria.com/maquinas/rebatir/maqUs_rebatir-con-rodillo-de-anillas_HESPERIA_1m-v.jpg</image:loc>
+		<image:title>Rebatir Zapato con Rodillo de Anillas HESPERIA (OCASIÓN)</image:title>
 	</image:image>
 </url>
 
