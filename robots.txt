@@ -41,6 +41,9 @@ Disallow: /maquinas/lijar-pulir/maqUs_maquinaDePulir_DISA-94.htm
 Disallow: /maquinas/lijar-pulir/maqUs_maquinaDePulir_DISA-9x.htm
 Disallow: /maquinas/lijar-pulir/maqUs_maquinaDePulir_RAN_JVL-81.htm
 Disallow: /maquinas/moldear/maqUs_moldearPalasDeBota_TRAP_T-30B.htm
+Disallow: /maquinas/moldear/maqUs_moldearKiowa_001.htm
+Disallow: /maquinas/moldear/maqUs_moldearTalones_celme_P-80A.htm
+Disallow: /maquinas/moldear/maqUs_moldearTalones_Vifama_V-92.htm
 Disallow: /maquinas/moldear/maqUs_moldearTalonesCalor-Frio_V-85-ECF.htm
 Disallow: /maquinas/montar/maqUs_montarConTenaza_xxx.htm
 Disallow: /maquinas/planchar/maqNu_plancharBotas_DISA_2005.htm
