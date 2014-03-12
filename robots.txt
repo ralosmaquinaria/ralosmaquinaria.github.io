@@ -50,6 +50,7 @@ Disallow: /maquinas/montar/maqUs_montarEnfranquesConInyeccion_USM.htm
 Disallow: /maquinas/montar/maqNu_montarYClavarEnfranques_OBE-14-M.htm
 Disallow: /maquinas/montar/maqUs_montarTalonesNeumatica_TRAP_T-20.htm
 Disallow: /maquinas/pegar/maqNu_pegarCasco_PASANQUI_S-501-DC1-B.htm
+Disallow: /maquinas/pegar/maqUs_pegarEntreforros_ME-GO_E-12R.htm
 Disallow: /maquinas/planchar/maqNu_plancharBotas_DISA_2005.htm
 Disallow: /maquinas/rayarCosturas/maqUs_rayarCosturasYPonerRefuerzoBotas_RECH_RC-300.htm
 Disallow: /maquinas/rebajar/maqUs_rebajarPiel_JINES_xxx.htm
