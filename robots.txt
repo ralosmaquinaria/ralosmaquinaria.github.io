@@ -17,6 +17,7 @@ Disallow: /maquinas/colectores/maqUs_colectorDePolvo_FRAMAR.htm
 Disallow: /maquinas/compresores/maqUs_compresorTornillo_mark_RF15.htm
 Disallow: /maquinas/compresores/maqUs_secadorFrigorificoAire_Balma_EA-700.htm
 Disallow: /maquinas/conformar/maqUs_conformarHuecos_DISA_DS-75.htm
+Disallow: /maquinas/conformar/maqus_conformarhuecos_disa_ds-75.htm
 Disallow: /maquinas/conformar/maqUs_conformarHuecosEnCalorYFrio_DISA-83.htm
 Disallow: /maquinas/compresores/maqUs_compresorTornillo_MARK_7-23MK.htm
 Disallow: /maquinas/coser/maqUs_maquinaCoser_REFREY_906.htm
@@ -55,6 +56,8 @@ Disallow: /maquinas/pegar/maqUs_pegarCascoUnaMembrana_PASANQUI_S-501-E.htm
 Disallow: /maquinas/pegar/maqUs_pegarEntreforros_ME-GO_E-12R.htm
 Disallow: /maquinas/pegar/maqUs_pegarSuelasDeBolsaTubular_IronFox.htm
 Disallow: /maquinas/pegar/maqus_pegarsuelasdebolsatubular_ironfox.htm
+Disallow: /maquinas/pegar/maqUs_pegarSuelasHidraulica_SIGMA_756.htm
+Disallow: /maquinas/pegar/maqUs_prensaParaReforzarPieles_ME-GO.htm
 Disallow: /maquinas/planchar/maqNu_plancharBotas_DISA_2005.htm
 Disallow: /maquinas/rayarCosturas/maqUs_rayarCosturasYPonerRefuerzoBotas_RECH_RC-300.htm
 Disallow: /maquinas/rebajar/maqUs_rebajarPiel_JINES_xxx.htm
