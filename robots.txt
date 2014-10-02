@@ -21,6 +21,7 @@ Disallow: /maquinas/conformar/maqUs_conformarHuecos_DISA_DS-75.htm
 Disallow: /maquinas/conformar/maqus_conformarhuecos_disa_ds-75.htm
 Disallow: /maquinas/conformar/maqUs_conformarHuecosEnCalorYFrio_DISA-83.htm
 Disallow: /maquinas/compresores/maqUs_compresorTornillo_MARK_7-23MK.htm
+Disallow: /maquinas/cortar/maqUs_cortarDeBrazoHidraulica_ATOM_S116.htm
 Disallow: /maquinas/coser/maqUs_maquinaCoser_REFREY_906.htm
 Disallow: /maquinas/coser/maqUs_maquinaCoserCortaHilos_ALFA_KM-235B.htm
 Disallow: /maquinas/coser/maqUs_maquinaCoserColumna_REFREY_901.htm
