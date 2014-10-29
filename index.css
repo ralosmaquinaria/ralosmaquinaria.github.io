@@ -1621,6 +1621,21 @@ div#productContainer div  {
 	padding-left: 4px;
 }
 
+#productDescription table td ul{
+	list-style-type: disc;
+	margin-top: 4px; 
+	margin-left: 0px;
+	margin-bottom: 12px;
+	padding: 0px; 
+}
+
+#productDescription table td ul li{
+	margin-top: 0px;
+	margin-left: 32px;
+	margin-bottom: 6px;
+	padding: 0px; 
+}
+
 #productDescription table td table td{
 	border: 1px solid #FFF;
 	padding-top: 0px;
@@ -1915,6 +1930,10 @@ p.rightText {
 
 .boldText.underlined {
 	text-decoration: underline;
+}
+
+.italText {
+	font-style: italic;
 }
 
 .uText {
