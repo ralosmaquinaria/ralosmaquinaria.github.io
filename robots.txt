@@ -65,8 +65,10 @@ Disallow: /maquinas/planchar/maqUs_plancharBotas_DISA_95-G2.htm
 Disallow: /maquinas/planchar/maqUs_plancharConVapor_ELETTROTECNICA_150S.htm
 Disallow: /maquinas/planchar/maqUs_plancharConVapor_GR_K21-R.htm
 Disallow: /maquinas/planchar/maqUs_plancharConVapor_RALOS_FC-525-TR.htm
-Disallow: /maquinas/ponerOjetes/maqUs_ponerOjetes_SAGITTA_MR-71.htm
 Disallow: /maquinas/planchar/maqNu_plancharBotas_DISA_2005.htm
+Disallow: /maquinas/ponerOjetes/maqUs_ponerOjetes_SAGITTA_MR-71.htm
+Disallow: /maquinas/prefijar/maqUs_prefijarTaconesHidraulica_HIDRA-PT_97.htm
+Disallow: /maquinas/prefijar/maqUs_prefijarYCerrarPestanas_iorce_IP-300.htm
 Disallow: /maquinas/rayarCosturas/maqUs_rayarCosturasYPonerRefuerzoBotas_RECH_RC-300.htm
 Disallow: /maquinas/rebajar/maqUs_rebajarPiel_JINES_xxx.htm
 Disallow: /maquinas/rebatir/maqUs_rebatir-con-rodillo-de-anillas_ASPERIA.htm
