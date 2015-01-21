@@ -207,6 +207,14 @@
 </url>
 
 <url>
+	<loc>http://www.ralosmaquinaria.com/maquinas/ahormar-deshormar/maqUs_ahormar-zapato-neumatica_N1.htm</loc>
+	<image:image>
+		<image:loc>http://www.ralosmaquinaria.com/maquinas/ahormar-deshormar/maqUs_ahormar-zapato-neumatica_N1_1m-v.jpg</image:loc>
+		<image:title>Ahormar Zapato Neumática N1 (OCASIÓN)</image:title>
+	</image:image>
+</url>
+
+<url>
 	<loc>http://www.ralosmaquinaria.com/maquinas/ahormar-deshormar/maqUs_deshormar-zapato-con-expulsor_MB.htm</loc>
 	<image:image>
 		<image:loc>http://www.ralosmaquinaria.com/maquinas/ahormar-deshormar/maqUs_deshormar-zapato-con-expulsor_MB_1m-v.jpg</image:loc>
@@ -721,10 +729,10 @@
 </url>
 
 <url>
-	<loc>http://www.ralosmaquinaria.com/maquinas/prefijar/maqUs_prefijar-tacones-hidraulica_HIDRA-PT_97.htm</loc>
+	<loc>http://www.ralosmaquinaria.com/maquinas/prefijar/maqUs_prefijar-y-atornillar-tacones_BRUSTIA_FT-3001SA-SC.htm</loc>
 	<image:image>
-		<image:loc>http://www.ralosmaquinaria.com/maquinas/prefijar/maqUs_prefijar-tacones-hidraulica_HIDRA-PT_97_1m-v.jpg</image:loc>
-		<image:title>Prefijar Tacones Hidráulica HIDRA-PT 97 (OCASIÓN)</image:title>
+		<image:loc>http://www.ralosmaquinaria.com/maquinas/prefijar/maqUs_prefijar-y-atornillar-tacones_BRUSTIA_FT-3001SA-SC_1m-v.jpg</image:loc>
+		<image:title>Prefijar y Atornillar Tacones BRUSTIA FT-3001SA-SC (OCASIÓN)</image:title>
 	</image:image>
 </url>
 
@@ -733,6 +741,14 @@
 	<image:image>
 		<image:loc>http://www.ralosmaquinaria.com/maquinas/prefijar/maqUs_prefijar-y-cerrar-pestanas_IORCE_IP-300_1m-v.jpg</image:loc>
 		<image:title>Prefijar y Cerrar Pestañas IORCE IP-300 (OCASIÓN)</image:title>
+	</image:image>
+</url>
+
+<url>
+	<loc>http://www.ralosmaquinaria.com/maquinas/prefijar/maqUs_prefijar-tacones-hidraulica_HIDRA-PT_97.htm</loc>
+	<image:image>
+		<image:loc>http://www.ralosmaquinaria.com/maquinas/prefijar/maqUs_prefijar-tacones-hidraulica_HIDRA-PT_97_1m-v.jpg</image:loc>
+		<image:title>Prefijar Tacones Hidráulica HIDRA-PT 97 (OCASIÓN)</image:title>
 	</image:image>
 </url>
 
