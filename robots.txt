@@ -53,6 +53,7 @@ Disallow: /maquinas/montar/maqUs_montarConTenaza_xxx.htm
 Disallow: /maquinas/montar/maqUs_montarEnfranquesConInyeccion_USM.htm
 Disallow: /maquinas/montar/maqNu_montarYClavarEnfranques_OBE-14-M.htm
 Disallow: /maquinas/montar/maqUs_montarTalonesNeumatica_TRAP_T-20.htm
+Disallow: /maquinas/pegar/maqUs_pegar-casco-doble-membrana_IronFox_AS1800.htm
 Disallow: /maquinas/pegar/maqNu_pegarCasco_PASANQUI_S-501-DC1-B.htm
 Disallow: /maquinas/pegar/maqUs_pegarCascoDobleMembrana_ActualitySystem.htm
 Disallow: /maquinas/pegar/maqUs_pegarCascoDobleMembrana_IronFox_AS1800.htm
