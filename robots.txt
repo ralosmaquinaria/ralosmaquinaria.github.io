@@ -72,9 +72,11 @@ Disallow: /maquinas/planchar/maqNu_plancharBotas_DISA_2005.htm
 Disallow: /maquinas/ponerOjetes/maqUs_ponerOjetes_SAGITTA_MR-71.htm
 Disallow: /maquinas/prefijar/maqUs_prefijarTaconesHidraulica_HIDRA-PT_97.htm
 Disallow: /maquinas/prefijar/maqUs_prefijarYCerrarPestanas_iorce_IP-300.htm
+Disallow: /maquinas/pulverizar/maqNu_pulverizadorAutomBlandolParaMontarPuntas_ME-GO.htm
 Disallow: /maquinas/rayarCosturas/maqUs_rayarCosturasYPonerRefuerzoBotas_RECH_RC-300.htm
 Disallow: /maquinas/rebajar/maqUs_rebajarPiel_JINES_xxx.htm
 Disallow: /maquinas/rebatir/maqUs_rebatir-con-rodillo-de-anillas_ASPERIA.htm
+Disallow: /maquinas/ribetear/maqNu_ribetearPlantillasConColaTermica_rp80n.htm
 Disallow: /maquinas/sentarCantos/maqUs_sentarCantosYCosturas_GR.htm
 Disallow: /maquinas/termoformadoras/maqNu_termoformadoraEnPvc_FORMAT.htm
 Disallow: /maquinas/timbrar/maqUs_timbrar-a-pedal_D-G.htm
