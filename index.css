@@ -1904,7 +1904,7 @@ div#goToTop a:active{
 	/*height: auto;*/
 	height: auto;
 	position: relative;
-	top: -98px;
+	top: -48px; /*top: -98px;*/
 	margin-top: 0;
 	margin-right: auto;
 	margin-bottom: 0;
