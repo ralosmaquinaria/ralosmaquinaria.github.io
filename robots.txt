@@ -11,6 +11,8 @@ Disallow: /maquinas/cabinas/maqUs_cabinaDarCola_VT-380.htm
 Disallow: /maquinas/centrar/maqUs_centrarYMontarPuntas_cerim_K78.htm
 Disallow: /maquinas/centrar/maqus_centrarymontarpuntas_cerim_k78.htm
 Disallow: /maquinas/clavar/maqUs_clavarTacones_BRUSTIA_PTP_3000.htm
+Disallow: /maquinas/clavar/maqUs_clavar-tacones-secuencial_BRUSTIA_PTP_3000.htm
+Disallow: /maquinas/clavar/maqUs_clavarTaconesSecuencial_SABAL_300-10V-5.htm
 Disallow: /maquinas/clavar/maqUs_clavarTaconesSecuenciales_SABAL_300-10V-5.htm
 Disallow: /maquinas/clavar/maqUs_clavar-pinchos-a-horma_IronFox_IF-4500.htm
 Disallow: /maquinas/clavar/maqUs_clavar-planta-a-pinchos_IronFox_IF-4700-M.htm

@@ -87,9 +87,17 @@
 </url>
 
 <url>
-	<loc>http://www.ralosmaquinaria.com/maquinas/clavar/maqUs_clavar-tacones-secuencial_BRUSTIA_PTP_3000.htm</loc>
+	<loc>http://www.ralosmaquinaria.com/maquinas/clavar/maqUs_clavar-tacones-automatica_BRUSTIA_PTP-2000.htm</loc>
 	<image:image>
-		<image:loc>http://www.ralosmaquinaria.com/maquinas/clavar/maqUs_clavar-tacones-secuencial_BRUSTIA_PTP_3000_1m-v.jpg</image:loc>
+		<image:loc>http://www.ralosmaquinaria.com/maquinas/clavar/maqUs_clavar-tacones-automatica_BRUSTIA_PTP-2000_1m-v.jpg</image:loc>
+		<image:title>Clavar Tacones o Entaconar BRUSTIA PTP 2000 (OCASIÓN)</image:title>
+	</image:image>
+</url>
+
+<url>
+	<loc>http://www.ralosmaquinaria.com/maquinas/clavar/maqUs_clavar-tacones-automatica_BRUSTIA_PTP-3000.htm</loc>
+	<image:image>
+		<image:loc>http://www.ralosmaquinaria.com/maquinas/clavar/maqUs_clavar-tacones-automatica_BRUSTIA_PTP-3000_1m-v.jpg</image:loc>
 		<image:title>Clavar Tacones o Entaconar BRUSTIA PTP 3000 (OCASIÓN)</image:title>
 	</image:image>
 </url>
