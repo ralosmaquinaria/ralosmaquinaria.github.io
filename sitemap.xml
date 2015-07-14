@@ -201,7 +201,7 @@
 <url>
 	<loc>http://www.ralosmaquinaria.com/maquinas/cortar/maqUs_troqueladora-brazo-hidraulica_fipi_FP-20.htm</loc>
 	<image:image>
-		<image:loc>http://www.ralosmaquinaria.com/maquinas/cortar/maqUs_troqueladora-brazo-hidraulica_fipi_FP-20_1m-h.jpg</image:loc>
+		<image:loc>http://www.ralosmaquinaria.com/maquinas/cortar/maqUs_troqueladora-brazo-hidraulica_fipi_FP-20_1m-v.jpg</image:loc>
 		<image:title>Cortar/Troquelar de Brazo Hidráulica fipi FP-20 (OCASIÓN)</image:title>
 	</image:image>
 </url>
@@ -303,22 +303,6 @@
 </url>
 
 <url>
-	<loc>http://www.ralosmaquinaria.com/maquinas/hornos/maqFp_horno-acondicionador-calzado_RaLoS_SP-864.htm</loc>
-	<image:image>
-		<image:loc>http://www.ralosmaquinaria.com/maquinas/hornos/maqFp_horno-acondicionador-calzado_RaLoS_SP-864_1b-h.jpg</image:loc>
-		<image:title>Horno Acondicionador de Calzado (2/4 Vías) SP-864 (NUEVA)</image:title>
-	</image:image>
-</url>
-
-<url>
-	<loc>http://www.ralosmaquinaria.com/maquinas/hornos/maqNu_horno-acondicionador-calzado_RaLoS_SP-864-2C.htm</loc>
-	<image:image>
-		<image:loc>http://www.ralosmaquinaria.com/maquinas/hornos/maqNu_horno-acondicionador-calzado_RaLoS_SP-864-2C_1m-h.jpg</image:loc>
-		<image:title>Horno Acondicionador de Calzado Compacto RaLoS SP-864-2C (NUEVA)</image:title>
-	</image:image>
-</url>
-
-<url>
 	<loc>http://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_BDF_HS-30.htm</loc>
 	<image:image>
 		<image:loc>http://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_BDF_HS-30_1m-v.jpg</image:loc>
@@ -350,20 +334,52 @@
 	</image:image>
 </url>
 
+<url>
+	<loc>http://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_elvi_FO-1016.htm</loc>
+	<image:image>
+		<image:loc>http://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_elvi_FO-1016_1m-h.jpg</image:loc>
+		<image:title>Horno Acondicionador de Calzado (2 Vías) elvi FO-1016 (OCASIÓN)</image:title>
+	</image:image>
+</url>
+
+
+<url>
+	<loc>http://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_elvi_FO-1021.htm</loc>
+	<image:image>
+		<image:loc>http://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_elvi_FO-1021_1m-h.jpg</image:loc>
+		<image:title>Horno Acondicionador de Calzado (4 Vías) elvi FO-1021 (OCASIÓN)</image:title>
+	</image:image>
+</url>
+
+<url>
+	<loc>http://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_PED-96.htm</loc>
+	<image:image>
+		<image:loc>http://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_PED-96_1m-v.jpg</image:loc>
+		<image:title>Horno Acondicionador de Calzado PED-96 (OCASIÓN)</image:title>
+	</image:image>
+</url>
+
+<url>
+	<loc>http://www.ralosmaquinaria.com/maquinas/hornos/maqFp_horno-acondicionador-calzado_RaLoS_SP-864.htm</loc>
+	<image:image>
+		<image:loc>http://www.ralosmaquinaria.com/maquinas/hornos/maqFp_horno-acondicionador-calzado_RaLoS_SP-864_1b-h.jpg</image:loc>
+		<image:title>Horno Acondicionador de Calzado (2/4 Vías) SP-864 (NUEVA)</image:title>
+	</image:image>
+</url>
+
+<url>
+	<loc>http://www.ralosmaquinaria.com/maquinas/hornos/maqNu_horno-acondicionador-calzado_RaLoS_SP-864-2C.htm</loc>
+	<image:image>
+		<image:loc>http://www.ralosmaquinaria.com/maquinas/hornos/maqNu_horno-acondicionador-calzado_RaLoS_SP-864-2C_1m-h.jpg</image:loc>
+		<image:title>Horno Acondicionador de Calzado Compacto RaLoS SP-864-2C (NUEVA)</image:title>
+	</image:image>
+</url>
 
 <url>
 	<loc>http://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_RaLoS_SP-86-2V.htm</loc>
 	<image:image>
 		<image:loc>http://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_RaLoS_SP-86-2V_1m-h.jpg</image:loc>
 		<image:title>Horno Acondicionador de Calzado RaLoS SP-86-2V (OCASIÓN)</image:title>
-	</image:image>
-</url>
-
-<url>
-	<loc>http://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_elvi_FO-1021.htm</loc>
-	<image:image>
-		<image:loc>http://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_elvi_FO-1021_1m-h.jpg</image:loc>
-		<image:title>Horno Acondicionador de Calzado (4 Vías) Elvi FO-1021 (OCASIÓN)</image:title>
 	</image:image>
 </url>
 
@@ -388,6 +404,14 @@
 	<image:image>
 		<image:loc>http://www.ralosmaquinaria.com/maquinas/coser/maqUs_maquina-coser-de-brazo-para-plantas_JUKI_LS-1341_1m-h.jpg</image:loc>
 		<image:title>Máquina de Coser/Aparar de Brazo para Plantas JUKI LS-1341 (OCASIÓN)</image:title>
+	</image:image>
+</url>
+
+<url>
+	<loc>http://www.ralosmaquinaria.com/maquinas/coser/maqUs_maquina-coser-de-brazo_FOMAX_KDD-1335H.htm</loc>
+	<image:image>
+		<image:loc>http://www.ralosmaquinaria.com/maquinas/coser/maqUs_maquina-coser-de-brazo_FOMAX_KDD-1335H_1m-v.jpg</image:loc>
+		<image:title>Máquina de Coser/Aparar de Columna FOMAX KDD-1335H (OCASIÓN)</image:title>
 	</image:image>
 </url>
 
