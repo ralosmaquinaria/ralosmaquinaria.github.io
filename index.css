@@ -1901,10 +1901,9 @@ div#goToTop a:active{
 
 #formContainer {
 	width: 100%;
-	/*height: auto;*/
 	height: auto;
 	position: relative;
-	top: -48px; /*top: -98px;*/
+	top: -54px; /*top: -98px;*/
 	margin-top: 0;
 	margin-right: auto;
 	margin-bottom: 0;
