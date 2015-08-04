@@ -91,6 +91,8 @@ Disallow: /maquinas/rebajar/maqUs_rebajarPiel_FAV_AV2.htm
 Disallow: /maquinas/rebajar/maqUs_rebajarPiel_JINES_xxx.htm
 Disallow: /maquinas/rebajar/maqUs_rebajarPielConAspiracion_FAV_AV2.htm
 Disallow: /maquinas/rebatir/maqUs_rebatir-con-rodillo-de-anillas_ASPERIA.htm
+Disallow: /maquinas/rebatir/maqUs_rebatirConRodilloDeLija_AA.htm
+Disallow: /maquinas/rebatir/maqUs_rebatirConRodilloDeLija_TRAP_T-12.htm
 Disallow: /maquinas/ribetear/maqNu_ribetearPlantillasConColaTermica_rp80n.htm
 Disallow: /maquinas/sentarCantos/maqUs_sentarCantosYCosturas_GR.htm
 Disallow: /maquinas/termoformadoras/maqNu_termoformadoraEnPvc_FORMAT.htm
