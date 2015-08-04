@@ -87,7 +87,9 @@ Disallow: /maquinas/reactivar/maqUs_reactivadorDePuntas_AMOROS_AM-90.htm
 Disallow: /maquinas/reactivar/maqUs_reactivadorPuntasConVapor_001.htm
 Disallow: /maquinas/reactivar/maqUs_reactivadorPuntas-Talones_AM.htm
 Disallow: /maquinas/reactivar/maqUs_reactivadorSuelasCombinado_A-6.htm
+Disallow: /maquinas/rebajar/maqUs_rebajarPiel_FAV_AV2.htm
 Disallow: /maquinas/rebajar/maqUs_rebajarPiel_JINES_xxx.htm
+Disallow: /maquinas/rebajar/maqUs_rebajarPielConAspiracion_FAV_AV2.htm
 Disallow: /maquinas/rebatir/maqUs_rebatir-con-rodillo-de-anillas_ASPERIA.htm
 Disallow: /maquinas/ribetear/maqNu_ribetearPlantillasConColaTermica_rp80n.htm
 Disallow: /maquinas/sentarCantos/maqUs_sentarCantosYCosturas_GR.htm
