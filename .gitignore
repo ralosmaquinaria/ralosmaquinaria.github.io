@@ -21,6 +21,8 @@ _PRINT/
 _RAW/
 _TEMP/
 _TMP/
+_TEST/
+_TST/
 _notes/
 include/
 logs/

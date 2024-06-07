@@ -9,13 +9,13 @@ var hasParent = -1
 /*var elem1 = document.getElementById('mCFixedToTop');
 var comp = window.getComputedStyle(elem1, null);*/
 
-if ( window.self === window.top ) { /* not in a frame (doesn't have parent) */ 
+if ( window.self === window.top ) { /* not in a frame */ 
 hasParent = hasParent + 1;
 /*document.getElementById('mCFixedToTop').style.display = "block";*/
 /*comp.style.display = "block";*/
 /*document.getElementById('hideIfChild').setAttribute("style","display: block;");*/
 }
-else { /* in a frame (has parent) */ 
+else { /* in a frame */ 
 hasParent = hasParent + 2;
 /*document.getElementById('mCFixedToTop').style.display = "none";*/
 /*comp.style.display = "none";*/
