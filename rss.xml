@@ -3,573 +3,581 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RaLoS, Maquinaria para Calzado | NOVEDADES</title>
-    <link>http://www.ralosmaquinaria.com/index.htm</link>
+    <link>https://www.ralosmaquinaria.com/index.htm</link>
     <description>¡Subscríbete a los Últimos Añadidos en Máquinas NUEVAS y USADAS RaLoS!</description>
-		<atom:link href="http://www.ralosmaquinaria.com/rss.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://www.ralosmaquinaria.com/rss.xml" rel="self" type="application/rss+xml" />
     <image>
-        <url>http://www.ralosmaquinaria.com/assets/logoRalosForm.png</url>
-        <link>http://www.ralosmaquinaria.com/index.htm</link>
-				<title>RaLoS, Maquinaria para Calzado | NOVEDADES</title>
+        <url>https://www.ralosmaquinaria.com/assets/logoRalosForm.png</url>
+        <link>https://www.ralosmaquinaria.com/index.htm</link>
+          <title>RaLoS, Maquinaria para Calzado | NOVEDADES</title>
     </image>
 
     <item>
+       <title>OCASIÓN: Banco de Finisaje Con Prensa 'MASTER 185-2F'</title>
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/reparar/maqUs_banco-de-finisaje-con-prensa_MASTER_185-2F_1m-v.jpg" length="11769" type="image/jpeg" height="224" width="168" />
+       <description>RaLoS, añade a su catálogo de maquinaria usada un banco de finisaje con prensa 'MASTER 185-2F'.</description>
+       <link>https://www.ralosmaquinaria.com/maquinas/reparar/maqUs_banco-de-finisaje-con-prensa_MASTER_185-2F.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/reparar/maqUs_banco-de-finisaje-con-prensa_MASTER_185-2F.htm</guid>
+    </item>
+
+    <item>
        <title>OCASIÓN: Máquina de Moldear Talones con Calor 'celme P-80'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/moldear/maqUs_moldear-talones-calor_CELME_P-80_1m-v.jpg" length="11769" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/moldear/maqUs_moldear-talones-calor_CELME_P-80_1m-v.jpg" length="11769" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina de moldear talones con calor 'celme P-80'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/moldear/maqUs_moldear-talones-calor_CELME_P-80.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/moldear/maqUs_moldear-talones-calor_CELME_P-80.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/moldear/maqUs_moldear-talones-calor_CELME_P-80.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/moldear/maqUs_moldear-talones-calor_CELME_P-80.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Grupo para Dar Látex y Prensar GR 'K-31'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/encolar/maqUs_grupo-dar-latex-y-prensar_GR_K-31_1m-v.jpg" length="9820" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/encolar/maqUs_grupo-dar-latex-y-prensar_GR_K-31_1m-v.jpg" length="9820" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada un grupo de trabajo para dar látex y prensar GR 'K-31'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/encolar/maqUs_grupo-dar-latex-y-prensar_GR_K-31.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/encolar/maqUs_grupo-dar-latex-y-prensar_GR_K-31.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/encolar/maqUs_grupo-dar-latex-y-prensar_GR_K-31.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/encolar/maqUs_grupo-dar-latex-y-prensar_GR_K-31.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Prensa para Pieles Automática y Neumática 'RLS'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/pegar/maqUs_prensa-para-pieles-automatica_RLS_1m-v.jpg" length="9577" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/pegar/maqUs_prensa-para-pieles-automatica_RLS_1m-v.jpg" length="9577" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una prensa para pieles automática y neumática 'RLS'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/pegar/maqUs_prensa-para-pieles-automatica_RLS.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/pegar/maqUs_prensa-para-pieles-automatica_RLS.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/pegar/maqUs_prensa-para-pieles-automatica_RLS.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/pegar/maqUs_prensa-para-pieles-automatica_RLS.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Horno Acondicionador de Calzado elvi 'FO-1016'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_elvi_FO-1016_1m-h.jpg" length="10245" type="image/jpeg" height="168" width="224" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_elvi_FO-1016_1m-h.jpg" length="10245" type="image/jpeg" height="168" width="224" />
        <description>RaLoS, añade a su catálogo de maquinaria usada un horno acondicionador de calzado elvi 'FO-1016'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_elvi_FO-1016.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_elvi_FO-1016.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_elvi_FO-1016.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_elvi_FO-1016.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Horno Acondicionador de Calzado 'PED-96'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_PED-96_1m-v.jpg" length="8380" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_PED-96_1m-v.jpg" length="8380" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada un horno acondicionador de calzado 'PED-96'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_PED-96.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_PED-96.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_PED-96.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_PED-96.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina de Coser de Brazo FOMAX 'KDD-1335H'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/coser/maqUs_maquina-coser-de-brazo_FOMAX_KDD-1335H_1m-v.jpg" length="8792" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/coser/maqUs_maquina-coser-de-brazo_FOMAX_KDD-1335H_1m-v.jpg" length="8792" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina de coser de brazo con triple arrastre FOMAX 'KDD-1335H'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/coser/maqUs_maquina-coser-de-brazo_FOMAX_KDD-1335H.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/coser/maqUs_maquina-coser-de-brazo_FOMAX_KDD-1335H.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/coser/maqUs_maquina-coser-de-brazo_FOMAX_KDD-1335H.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/coser/maqUs_maquina-coser-de-brazo_FOMAX_KDD-1335H.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina de Coser de Brazo para Plantas JUKI 'LS-1341'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/coser/maqUs_maquina-coser-de-brazo-para-plantas_JUKI_LS-1341_1m-h.jpg" length="8787" type="image/jpeg" height="168" width="224" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/coser/maqUs_maquina-coser-de-brazo-para-plantas_JUKI_LS-1341_1m-h.jpg" length="8787" type="image/jpeg" height="168" width="224" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina de coser de brazo para el cosido de plantas JUKI 'LS-1341'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/coser/maqUs_maquina-coser-de-brazo-para-plantas_JUKI_LS-1341.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/coser/maqUs_maquina-coser-de-brazo-para-plantas_JUKI_LS-1341.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/coser/maqUs_maquina-coser-de-brazo-para-plantas_JUKI_LS-1341.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/coser/maqUs_maquina-coser-de-brazo-para-plantas_JUKI_LS-1341.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina de Clavar Tacones Automática BRUSTIA 'PTP 2000'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/clavar/maqUs_clavar-tacones-automatica_BRUSTIA_PTP-2000_1m-v.jpg" length="8321" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/clavar/maqUs_clavar-tacones-automatica_BRUSTIA_PTP-2000_1m-v.jpg" length="8321" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina de clavar tacones automática BRUSTIA 'PTP 2000'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/clavar/maqUs_clavar-tacones-automatica_BRUSTIA_PTP-2000.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/clavar/maqUs_clavar-tacones-automatica_BRUSTIA_PTP-2000.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/clavar/maqUs_clavar-tacones-automatica_BRUSTIA_PTP-2000.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/clavar/maqUs_clavar-tacones-automatica_BRUSTIA_PTP-2000.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina de Montar Talones MOLINA-BIANCHI 'MK-3AP'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/montar/maqUs_montar-talones_MOLINA-BIANCHI_MK-3AP_1m-v.jpg" length="10832" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/montar/maqUs_montar-talones_MOLINA-BIANCHI_MK-3AP_1m-v.jpg" length="10832" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina de montar talones hidráulica MOLINA-BIANCHI 'MK-3AP'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/montar/maqUs_montar-talones_MOLINA-BIANCHI_MK-3AP.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/montar/maqUs_montar-talones_MOLINA-BIANCHI_MK-3AP.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/montar/maqUs_montar-talones_MOLINA-BIANCHI_MK-3AP.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/montar/maqUs_montar-talones_MOLINA-BIANCHI_MK-3AP.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Colector de Polvo KENBiLL 'UFO-101'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/colectores/maqUs_colector-de-polvo_KENBiLL_UFO-101_1m-v.jpg" length="7507" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/colectores/maqUs_colector-de-polvo_KENBiLL_UFO-101_1m-v.jpg" length="7507" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada un colector de polvo KENBiLL 'UFO-101'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/colectores/maqUs_colector-de-polvo_KENBiLL_UFO-101.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/colectores/maqUs_colector-de-polvo_KENBiLL_UFO-101.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/colectores/maqUs_colector-de-polvo_KENBiLL_UFO-101.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/colectores/maqUs_colector-de-polvo_KENBiLL_UFO-101.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina de Dobladillar COMELZ 'COM42'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/dobladillar/maqUs_dobladillar_COMELZ_COM42_1m-h.jpg" length="7940" type="image/jpeg" height="168" width="224" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/dobladillar/maqUs_dobladillar_COMELZ_COM42_1m-h.jpg" length="7940" type="image/jpeg" height="168" width="224" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una de dobladillar COMELZ 'COM42'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/dobladillar/maqUs_dobladillar_COMELZ_COM42.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/dobladillar/maqUs_dobladillar_COMELZ_COM42.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/dobladillar/maqUs_dobladillar_COMELZ_COM42.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/dobladillar/maqUs_dobladillar_COMELZ_COM42.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina de Cortar/Troquelar de Puente (o Carro) Hidráulica ATOM 'HS-588/10'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/cortar/maqUs_troqueladora-puente-hidraulica_ATOM_HS-588-10_1m-h.jpg" length="9377" type="image/jpeg" height="168" width="224" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/cortar/maqUs_troqueladora-puente-hidraulica_ATOM_HS-588-10_1m-h.jpg" length="9377" type="image/jpeg" height="168" width="224" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina troqueladora de puente hidráulica ATOM 'HS-588/10'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/cortar/maqUs_troqueladora-puente-hidraulica_ATOM_HS-588-10.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/cortar/maqUs_troqueladora-puente-hidraulica_ATOM_HS-588-10.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/cortar/maqUs_troqueladora-puente-hidraulica_ATOM_HS-588-10.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/cortar/maqUs_troqueladora-puente-hidraulica_ATOM_HS-588-10.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina para Ribetear Plantillas con Cola Térmica SAGITTA 'RP 80 A'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/ribetear/maqUs_ribetear-plantillas-con-cola-termica_SAGITTA_RP-80-A_1m-v.jpg" length="8537" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/ribetear/maqUs_ribetear-plantillas-con-cola-termica_SAGITTA_RP-80-A_1m-v.jpg" length="8537" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina para ribetear plantillas (o ribeteadora) con cola térmica SAGITTA 'RP 80 A'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/ribetear/maqUs_ribetear-plantillas-con-cola-termica_SAGITTA_RP-80-A.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/ribetear/maqUs_ribetear-plantillas-con-cola-termica_SAGITTA_RP-80-A.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/ribetear/maqUs_ribetear-plantillas-con-cola-termica_SAGITTA_RP-80-A.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/ribetear/maqUs_ribetear-plantillas-con-cola-termica_SAGITTA_RP-80-A.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina de Timbrar Neumática 'N1'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/timbrar-grabar/maqUs_timbrar-neumatica_N1_1m-v.jpg" length="9616" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/timbrar-grabar/maqUs_timbrar-neumatica_N1_1m-v.jpg" length="9616" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina de timbrar neumática 'N1'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/timbrar-grabar/maqUs_timbrar-neumatica_N1.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/timbrar-grabar/maqUs_timbrar-neumatica_N1.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/timbrar-grabar/maqUs_timbrar-neumatica_N1.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/timbrar-grabar/maqUs_timbrar-neumatica_N1.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina para Poner Cinta y Abrir Costuras 'USM'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/poner-cinta/maqUs_poner-cinta-y-abrir-costuras_USM_1m-v.jpg" length="9079" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/poner-cinta/maqUs_poner-cinta-y-abrir-costuras_USM_1m-v.jpg" length="9079" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina para poner cinta de refuerzo y abrir costuras al zapato 'USM'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/poner-cinta/maqUs_poner-cinta-y-abrir-costuras_USM.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/poner-cinta/maqUs_poner-cinta-y-abrir-costuras_USM.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/poner-cinta/maqUs_poner-cinta-y-abrir-costuras_USM.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/poner-cinta/maqUs_poner-cinta-y-abrir-costuras_USM.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina para Prefijar y Atornillar Tacones Neumática 'BRUSTIA FT-3001SA-SC'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/prefijar/maqUs_prefijar-y-atornillar-tacones_BRUSTIA_FT-3001SA-SC_1m-v.jpg" length="7404" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/prefijar/maqUs_prefijar-y-atornillar-tacones_BRUSTIA_FT-3001SA-SC_1m-v.jpg" length="7404" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina neumática para prefijar y atornillar tacones 'BRUSTIA FT-3001SA-SC'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/prefijar/maqUs_prefijar-y-atornillar-tacones_BRUSTIA_FT-3001SA-SC.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/prefijar/maqUs_prefijar-y-atornillar-tacones_BRUSTIA_FT-3001SA-SC.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/prefijar/maqUs_prefijar-y-atornillar-tacones_BRUSTIA_FT-3001SA-SC.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/prefijar/maqUs_prefijar-y-atornillar-tacones_BRUSTIA_FT-3001SA-SC.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina para Ahormar el Zapato Neumática 'N1'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/ahormar-deshormar/maqUs_ahormar-zapato-neumatica_N1_1m-v.jpg" length="9143" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/ahormar-deshormar/maqUs_ahormar-zapato-neumatica_N1_1m-v.jpg" length="9143" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina neumática para ahormar el zapato 'N1'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/ahormar-deshormar/maqUs_ahormar-zapato-neumatica_N1.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/ahormar-deshormar/maqUs_ahormar-zapato-neumatica_N1.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/ahormar-deshormar/maqUs_ahormar-zapato-neumatica_N1.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/ahormar-deshormar/maqUs_ahormar-zapato-neumatica_N1.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina de Cortar Tiras 'JAS'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/cortar/maqUs_maquina-de-cortar-tiras_JAS_1m-v.jpg" length="8781" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/cortar/maqUs_maquina-de-cortar-tiras_JAS_1m-v.jpg" length="8781" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina de cortar tiras 'JAS'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/cortar/maqUs_maquina-de-cortar-tiras_JAS.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/cortar/maqUs_maquina-de-cortar-tiras_JAS.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/cortar/maqUs_maquina-de-cortar-tiras_JAS.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/cortar/maqUs_maquina-de-cortar-tiras_JAS.htm</guid>
     </item>
 		
     <item>
        <title>OCASIÓN: Reactivador de Infrarrojos (FLASH) 'MATECAL'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_reactivador-de-infrarrojos_MATECAL_RL-2000_1m-v.jpg" length="8638" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_reactivador-de-infrarrojos_MATECAL_RL-2000_1m-v.jpg" length="8638" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada un reactivador de suelas por infrarrojos tipo FLASH 'MATECAL RL-2000'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_reactivador-de-infrarrojos_MATECAL_RL-2000.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_reactivador-de-infrarrojos_MATECAL_RL-2000.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_reactivador-de-infrarrojos_MATECAL_RL-2000.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_reactivador-de-infrarrojos_MATECAL_RL-2000.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina de Rebajar con Aspiración y Embrague 'FAV AV2' (#2)</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/rebajar/maqUs_rebajar-piel-con-aspiracion-y-embrague_FAV_AV2_N2_1m-v.jpg" length="9307" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/rebajar/maqUs_rebajar-piel-con-aspiracion-y-embrague_FAV_AV2_N2_1m-v.jpg" length="9307" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina de rebajar con aspiración y embrague 'FAV_AV2' (#2).</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/rebajar/maqUs_rebajar-piel-con-aspiracion-y-embrague_FAV_AV2_N2.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/rebajar/maqUs_rebajar-piel-con-aspiracion-y-embrague_FAV_AV2_N2.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/rebajar/maqUs_rebajar-piel-con-aspiracion-y-embrague_FAV_AV2_N2.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/rebajar/maqUs_rebajar-piel-con-aspiracion-y-embrague_FAV_AV2_N2.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina de Lijar o Cardar 'DISA-73CE'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquina-lijar-con-aspiracion_DISA-73CE_1m-v.jpg" length="9158" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquina-lijar-con-aspiracion_DISA-73CE_1m-v.jpg" length="9158" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina de lijar o cardar con aspiración incorporada 'DISA-73CE'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquina-lijar-con-aspiracion_DISA-73CE.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquina-lijar-con-aspiracion_DISA-73CE.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquina-lijar-con-aspiracion_DISA-73CE.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquina-lijar-con-aspiracion_DISA-73CE.htm</guid>
     </item>
 
    <item>
        <title>OCASIÓN: Máquina de Timbrar a Pedal 'SANGAR'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/timbrar-grabar/maqNu_timbrar-a-pedal_SANGAR_1m-v.jpg" length="9085" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/timbrar-grabar/maqNu_timbrar-a-pedal_SANGAR_1m-v.jpg" length="9085" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina de timbrar a pedal 'SANGAR'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/timbrar-grabar/maqNu_timbrar-a-pedal_SANGAR.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/timbrar-grabar/maqNu_timbrar-a-pedal_SANGAR.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/timbrar-grabar/maqNu_timbrar-a-pedal_SANGAR.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/timbrar-grabar/maqNu_timbrar-a-pedal_SANGAR.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina de Rebajar Piel Computerizada 'COMELZ SS20'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/rebajar/maqNu_rebajar-piel-computerizada_COMELZ_SS20_1m-v.jpg" length="8259" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/rebajar/maqNu_rebajar-piel-computerizada_COMELZ_SS20_1m-v.jpg" length="8259" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria nueva una máquina para rebajar piel/cortes computerizada 'COMELZ SS20'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/rebajar/maqNu_rebajar-piel-computerizada_COMELZ_SS20.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/rebajar/maqNu_rebajar-piel-computerizada_COMELZ_SS20.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/rebajar/maqNu_rebajar-piel-computerizada_COMELZ_SS20.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/rebajar/maqNu_rebajar-piel-computerizada_COMELZ_SS20.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina para Perforar Piel 'GILMA G-100'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/perforar/maqUs_perforar-piel_GILMA_G-100_N1_1m-h.jpg" length="9116" type="image/jpeg" height="168" width="224" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/perforar/maqUs_perforar-piel_GILMA_G-100_N1_1m-h.jpg" length="9116" type="image/jpeg" height="168" width="224" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina para perforar piel 'GILMA G-100'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/perforar/maqUs_perforar-piel_GILMA_G-100_N1.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/perforar/maqUs_perforar-piel_GILMA_G-100_N1.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/perforar/maqUs_perforar-piel_GILMA_G-100_N1.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/perforar/maqUs_perforar-piel_GILMA_G-100_N1.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina de Lijar y Cardar de Banda 'FERCA-1010'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquina-lijar-de-banda_FERCA_M-1010_1m-v.jpg" length="10856" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquina-lijar-de-banda_FERCA_M-1010_1m-v.jpg" length="10856" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina de lijar de banda 'FERCA M-1010'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquina-lijar-de-banda_FERCA_M-1010.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquina-lijar-de-banda_FERCA_M-1010.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquina-lijar-de-banda_FERCA_M-1010.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquina-lijar-de-banda_FERCA_M-1010.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina de Marcar Caja Neumática 'ORMAC BABY HIT 192'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/marcar-caja/maqUs_marcar-caja_ORMAC_BABY-HIT-192_1m-v.jpg" length="117425" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/marcar-caja/maqUs_marcar-caja_ORMAC_BABY-HIT-192_1m-v.jpg" length="117425" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina para marcar la caja del tacón 'ORMAC BABY HIT 192'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/marcar-caja/maqUs_marcar-caja_ORMAC_BABY-HIT-192.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/marcar-caja/maqUs_marcar-caja_ORMAC_BABY-HIT-192.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/marcar-caja/maqUs_marcar-caja_ORMAC_BABY-HIT-192.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/marcar-caja/maqUs_marcar-caja_ORMAC_BABY-HIT-192.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina de Moldear Palas de Bota 'MACIAS'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/moldear/maqUs_moldear-palas-de-bota_MACIAS_1m-v.jpg" length="9642" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/moldear/maqUs_moldear-palas-de-bota_MACIAS_1m-v.jpg" length="9642" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina para moldear las palas de Bota 'MACIAS'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/moldear/maqUs_moldear-palas-de-bota_MACIAS.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/moldear/maqUs_moldear-palas-de-bota_MACIAS.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/moldear/maqUs_moldear-palas-de-bota_MACIAS.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/moldear/maqUs_moldear-palas-de-bota_MACIAS.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Pegar Entreforros Neumática 'NEVE AP76-EL'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-entreforros-neumatica_NEVE_AP76-EL_1m-v.jpg" length="9636" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-entreforros-neumatica_NEVE_AP76-EL_1m-v.jpg" length="9636" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina para pegar entreforros neumática 'NEVE AP76-EL'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-entreforros-neumatica_NEVE_AP76-EL.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-entreforros-neumatica_NEVE_AP76-EL.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-entreforros-neumatica_NEVE_AP76-EL.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-entreforros-neumatica_NEVE_AP76-EL.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Recortar Forros o Sacar Calados 'FILLHER-ROCMI RC-5'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/recortar/maqUs_recortar-forros_FILLHER-ROCMI_RC-5_1m-v.jpg" length="8567" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/recortar/maqUs_recortar-forros_FILLHER-ROCMI_RC-5_1m-v.jpg" length="8567" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina para para recortar el forro del zapato o sacar calados 'FILLHER-ROCMI RC-5'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/recortar/maqUs_recortar-forros_FILLHER-ROCMI_RC-5.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/recortar/maqUs_recortar-forros_FILLHER-ROCMI_RC-5.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/recortar/maqUs_recortar-forros_FILLHER-ROCMI_RC-5.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/recortar/maqUs_recortar-forros_FILLHER-ROCMI_RC-5.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Compresor de Tornillo 'MARK RF25-10YA'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/compresores/maqUs_compresor-de-tornillo_MARK_RF25-10YA_1m-v.jpg" length="9457" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/compresores/maqUs_compresor-de-tornillo_MARK_RF25-10YA_1m-v.jpg" length="9457" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada un compresor de aire tipo tornillo 'MARK RF25-10YA'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/compresores/maqUs_compresor-de-tornillo_MARK_RF25-10YA.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/compresores/maqUs_compresor-de-tornillo_MARK_RF25-10YA.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/compresores/maqUs_compresor-de-tornillo_MARK_RF25-10YA.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/compresores/maqUs_compresor-de-tornillo_MARK_RF25-10YA.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Banco de Finisaje (o Reparación) para Calzado 'PREY'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/reparar/maqUs_banco-de-finisaje-con-prensa-y-clavado_PREY_1m-v.jpg" length="11148" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/reparar/maqUs_banco-de-finisaje-con-prensa-y-clavado_PREY_1m-v.jpg" length="11148" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada un banco de finisaje (o reparación) para calzado 'PREY'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/reparar/maqUs_banco-de-finisaje-con-prensa-y-clavado_PREY.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/reparar/maqUs_banco-de-finisaje-con-prensa-y-clavado_PREY.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/reparar/maqUs_banco-de-finisaje-con-prensa-y-clavado_PREY.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/reparar/maqUs_banco-de-finisaje-con-prensa-y-clavado_PREY.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Rebatir Zapato 'HESPERIA'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/rebatir/maqUs_rebatir-con-rodillo-de-anillas_HESPERIA_1m-v.jpg" length="9184" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/rebatir/maqUs_rebatir-con-rodillo-de-anillas_HESPERIA_1m-v.jpg" length="9184" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina de rebatir con rodillo de anillas 'HESPERIA'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/rebatir/maqUs_rebatir-con-rodillo-de-anillas_HESPERIA.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/rebatir/maqUs_rebatir-con-rodillo-de-anillas_HESPERIA.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/rebatir/maqUs_rebatir-con-rodillo-de-anillas_HESPERIA.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/rebatir/maqUs_rebatir-con-rodillo-de-anillas_HESPERIA.htm</guid>
     </item>
 		
     <item>
        <title>OCASIÓN: Cabina de Difuminar EM '96'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/cabinas/maqUs_cabina-de-difuminar_EM-96_1m-v.jpg" length="8669" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/cabinas/maqUs_cabina-de-difuminar_EM-96_1m-v.jpg" length="8669" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una cabina para difuminar el zapato EM '96'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/cabinas/maqUs_cabina-de-difuminar_EM-96.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/cabinas/maqUs_cabina-de-difuminar_EM-96.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/cabinas/maqUs_cabina-de-difuminar_EM-96.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/cabinas/maqUs_cabina-de-difuminar_EM-96.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina de Moldear Palas de Bota SIGMA '163'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/moldear/maqUs_moldear-palas_SIGMA_163_1m-v.jpg" length="10616" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/moldear/maqUs_moldear-palas_SIGMA_163_1m-v.jpg" length="10616" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina para moldear las palas SIGMA '163'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/moldear/maqUs_moldear-palas_SIGMA_163.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/moldear/maqUs_moldear-palas_SIGMA_163.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/moldear/maqUs_moldear-palas_SIGMA_163.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/moldear/maqUs_moldear-palas_SIGMA_163.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Horno Acondicionador de Calzado EAS 'LAUR-60'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_EAS_LAUR-60_1m-v.jpg" length="9538" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_EAS_LAUR-60_1m-v.jpg" length="9538" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada un horno acondicionador de calzado EAS 'LAUR-60' en unas excelentes condiciones.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_EAS_LAUR-60.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_EAS_LAUR-60.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_EAS_LAUR-60.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_EAS_LAUR-60.htm</guid>
     </item>
 
     <item>
        <title>NUEVA: Banco de Finisaje con Prensa para Reparación de Calzado 'ASPIRA+'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/reparar/maqNu_banco-finisaje-con-prensa_ASPIRA_plus_1m-h.jpg" length="8838" type="image/jpeg" height="168" width="224" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/reparar/maqNu_banco-finisaje-con-prensa_ASPIRA_plus_1m-h.jpg" length="8838" type="image/jpeg" height="168" width="224" />
        <description>RaLoS, añade a su catálogo de maquinaria nueva un banco de finisaje con prensa para reparación de calzado 'ASPIRA+'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/reparar/maqNu_banco-finisaje-con-prensa_ASPIRA_plus.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/reparar/maqNu_banco-finisaje-con-prensa_ASPIRA_plus.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/reparar/maqNu_banco-finisaje-con-prensa_ASPIRA_plus.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/reparar/maqNu_banco-finisaje-con-prensa_ASPIRA_plus.htm</guid>
     </item>
 
     <item>
        <title>NUEVA: Compresor de Aire tipo Tornillo SCR COMP 'SCR20M-10'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/compresores/maqNu_compresor-de-tornillo_SCR-COMP_SCR20M-10_1m-v.jpg" length="8469" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/compresores/maqNu_compresor-de-tornillo_SCR-COMP_SCR20M-10_1m-v.jpg" length="8469" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria nueva un compresor de aire de tornillo SCR COMP 'SCR20M-10'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/compresores/maqNu_compresor-de-tornillo_SCR-COMP_SCR20M-10.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/compresores/maqNu_compresor-de-tornillo_SCR-COMP_SCR20M-10.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/compresores/maqNu_compresor-de-tornillo_SCR-COMP_SCR20M-10.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/compresores/maqNu_compresor-de-tornillo_SCR-COMP_SCR20M-10.htm</guid>
     </item>
 
     <item>
        <title>NUEVA: Compresor de Aire tipo Pistón GERMAN KOMPRESSOREN 'GP3-10/50S'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/compresores/maqNu_compresor-aire-piston_GERMAN_GP3-10-50S_1m-v.jpg" length="9811" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/compresores/maqNu_compresor-aire-piston_GERMAN_GP3-10-50S_1m-v.jpg" length="9811" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria nueva un compresor de aire de pistón GERMAN 'P3-10/50S'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/compresores/maqNu_compresor-aire-piston_GERMAN_GP3-10-50S.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/compresores/maqNu_compresor-aire-piston_GERMAN_GP3-10-50S.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/compresores/maqNu_compresor-aire-piston_GERMAN_GP3-10-50S.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/compresores/maqNu_compresor-aire-piston_GERMAN_GP3-10-50S.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina de Planchar Botas 'PRADAS'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/planchar/maqUs_planchar-botas_PRADAS_1m-h.jpg" length="9075" type="image/jpeg" height="168" width="224" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/planchar/maqUs_planchar-botas_PRADAS_1m-h.jpg" length="9075" type="image/jpeg" height="168" width="224" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina para planchar la caña de la bota 'PRADAS'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/planchar/maqUs_planchar-botas_PRADAS.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/planchar/maqUs_planchar-botas_PRADAS.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/planchar/maqUs_planchar-botas_PRADAS.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/planchar/maqUs_planchar-botas_PRADAS.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina de Moldear Palas de Bota TRAP 'T-30-B'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/moldear/maqUs_moldear-palas-de-bota_TRAP_T-30-B_1m-v.jpg" length="10244" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/moldear/maqUs_moldear-palas-de-bota_TRAP_T-30-B_1m-v.jpg" length="10244" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina para moldear las palas de la bota TRAP 'T-30-B'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/moldear/maqUs_moldear-palas-de-bota_TRAP_T-30-B.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/moldear/maqUs_moldear-palas-de-bota_TRAP_T-30-B.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/moldear/maqUs_moldear-palas-de-bota_TRAP_T-30-B.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/moldear/maqUs_moldear-palas-de-bota_TRAP_T-30-B.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Secador/Reactivador de Suelas ELETTROTECNICA B.C. '409'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_secador-reactivador-de-suelas_ELETTROTECNICA-BC_409_1m-h.jpg" length="10164" type="image/jpeg" height="168" width="224" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_secador-reactivador-de-suelas_ELETTROTECNICA-BC_409_1m-h.jpg" length="10164" type="image/jpeg" height="168" width="224" />
        <description>RaLoS, añade a su catálogo de maquinaria usada un túnel secador/reactivador de suelas ELETTROTECNICA B.C. '409'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_secador-reactivador-de-suelas_ELETTROTECNICA-BC_409.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_secador-reactivador-de-suelas_ELETTROTECNICA-BC_409.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_secador-reactivador-de-suelas_ELETTROTECNICA-BC_409.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_secador-reactivador-de-suelas_ELETTROTECNICA-BC_409.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Secador/Reactivador de Suelas con Transporte Automático 'SOTO'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_secador-reactivador-de-suelas_SOTO_1m-h.jpg" length="7961" type="image/jpeg" height="168" width="224" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_secador-reactivador-de-suelas_SOTO_1m-h.jpg" length="7961" type="image/jpeg" height="168" width="224" />
        <description>RaLoS, añade a su catálogo de maquinaria usada un túnel secador/reactivador de suelas con transporte automático 'SOTO'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_secador-reactivador-de-suelas_SOTO.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_secador-reactivador-de-suelas_SOTO.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_secador-reactivador-de-suelas_SOTO.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_secador-reactivador-de-suelas_SOTO.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina de Coser de Brazo para Arreglos de Calzado SEWMAQ 'SW-7129'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/coser/maqNu_maquina-coser-de-brazo_SEWMAQ_SW-7129_1m-v.jpg" length="8553" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/coser/maqNu_maquina-coser-de-brazo_SEWMAQ_SW-7129_1m-v.jpg" length="8553" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina de coser de brazo para arreglos de calzado SEWMAQ 'SW-7129'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/coser/maqNu_maquina-coser-de-brazo_SEWMAQ_SW-7129.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/coser/maqNu_maquina-coser-de-brazo_SEWMAQ_SW-7129.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/coser/maqNu_maquina-coser-de-brazo_SEWMAQ_SW-7129.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/coser/maqNu_maquina-coser-de-brazo_SEWMAQ_SW-7129.htm</guid>
     </item>
 
     <item>
        <title>NUEVA: Máquina para Ensanchar el Zapato VULCAN "V-79"</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/reparar/maqNu_maquina-para-ensanchar-zapato_VULCAN_V-79_1m-h.jpg" length="10471" type="image/jpeg" height="168" width="224" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/reparar/maqNu_maquina-para-ensanchar-zapato_VULCAN_V-79_1m-h.jpg" length="10471" type="image/jpeg" height="168" width="224" />
        <description>RaLoS, añade a su catálogo de maquinaria nueva una máquina para ensanchar, alargar y levantar el empeine de los zapatos "VULCAN V-79".</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/reparar/maqNu_maquina-para-ensanchar-zapato_VULCAN_V-79.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/reparar/maqNu_maquina-para-ensanchar-zapato_VULCAN_V-79.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/reparar/maqNu_maquina-para-ensanchar-zapato_VULCAN_V-79.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/reparar/maqNu_maquina-para-ensanchar-zapato_VULCAN_V-79.htm</guid>
     </item>
 
     <item>
        <title>NUEVA: Pie de Trabajo para Clavado y Arreglos de Calzado con 6 Formas 'P6F'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/pies-de-trabajo/maqNu_pie-de-trabajo-para-clavado-con-6-formas_P6F_1m-v.jpg" length="8528" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/pies-de-trabajo/maqNu_pie-de-trabajo-para-clavado-con-6-formas_P6F_1m-v.jpg" length="8528" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria nueva un pie o base de trabajo para clavado y arreglos de calzado 'P6F', con 6 formas (u hormas) de diferentes medidas.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/pies-de-trabajo/maqNu_pie-de-trabajo-para-clavado-con-6-formas_P6F.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/pies-de-trabajo/maqNu_pie-de-trabajo-para-clavado-con-6-formas_P6F.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/pies-de-trabajo/maqNu_pie-de-trabajo-para-clavado-con-6-formas_P6F.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/pies-de-trabajo/maqNu_pie-de-trabajo-para-clavado-con-6-formas_P6F.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina de Moldear Palas TRAP 'Nova 30'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/moldear/maqUs_moldear-palas_TRAP_Nova-30_1m-v.jpg" length="9292" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/moldear/maqUs_moldear-palas_TRAP_Nova-30_1m-v.jpg" length="9292" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina para moldear las palas del zapato o bota TRAP 'Nova 30'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/moldear/maqUs_moldear-palas_TRAP_Nova-30.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/moldear/maqUs_moldear-palas_TRAP_Nova-30.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/moldear/maqUs_moldear-palas_TRAP_Nova-30.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/moldear/maqUs_moldear-palas_TRAP_Nova-30.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina de Deshormar Zapato con Expulsor 'MB'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/ahormar-deshormar/maqUs_deshormar-zapato-con-expulsor_MB_1m-v.jpg" length="8259" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/ahormar-deshormar/maqUs_deshormar-zapato-con-expulsor_MB_1m-v.jpg" length="8259" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina para deshormar el zapato con expulsor 'MB'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/ahormar-deshormar/maqUs_deshormar-zapato-con-expulsor_MB.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/ahormar-deshormar/maqUs_deshormar-zapato-con-expulsor_MB.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/ahormar-deshormar/maqUs_deshormar-zapato-con-expulsor_MB.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/ahormar-deshormar/maqUs_deshormar-zapato-con-expulsor_MB.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina de Dividir Piel ATOM 'GL27'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/dividir/maqUs_dividir-piel_ATOM_GL27_1m-v.jpg" length="9103" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/dividir/maqUs_dividir-piel_ATOM_GL27_1m-v.jpg" length="9103" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina de dividir piel ATOM 'GL27' (300 mm).</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/dividir/maqUs_dividir-piel_ATOM_GL27.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/dividir/maqUs_dividir-piel_ATOM_GL27.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/dividir/maqUs_dividir-piel_ATOM_GL27.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/dividir/maqUs_dividir-piel_ATOM_GL27.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina de Dividir Piel 'Camoga 300mm'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/dividir/maqUs_dividir-piel_Camoga_300mm_1m-v.jpg" length="8376" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/dividir/maqUs_dividir-piel_Camoga_300mm_1m-v.jpg" length="8376" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina de dividir piel 'Camoga 300mm'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/dividir/maqUs_dividir-piel_Camoga_300mm.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/dividir/maqUs_dividir-piel_Camoga_300mm.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/dividir/maqUs_dividir-piel_Camoga_300mm.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/dividir/maqUs_dividir-piel_Camoga_300mm.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Plancha para Reactivar Contrafuertes 'SAGINA'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_plancha-reactivar-contrafuertes_SAGINA_1m-h.jpg" length="7853" type="image/jpeg" height="168" width="224" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_plancha-reactivar-contrafuertes_SAGINA_1m-h.jpg" length="7853" type="image/jpeg" height="168" width="224" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una plancha para reactivar los contrafuertes del zapato 'SAGINA'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_plancha-reactivar-contrafuertes_SAGINA.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_plancha-reactivar-contrafuertes_SAGINA.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_plancha-reactivar-contrafuertes_SAGINA.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_plancha-reactivar-contrafuertes_SAGINA.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquinas para Clavar Plantas a Horma (con Pinchos) Iron Fox 'IF 4500' y 'IF 4700 M'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/clavar/maqUs_clavar-plantas-a-horma-con-pinchos_IronFox_IF-4500_4700-M_0m-v.jpg" length="11057" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/clavar/maqUs_clavar-plantas-a-horma-con-pinchos_IronFox_IF-4500_4700-M_0m-v.jpg" length="11057" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada el conjunto de máquinas para clavar plantas a la horma (con pinchos) Iron Fox: 'IF 4500' y 'IF 4700 M'</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/clavar/maqUs_clavar-plantas-a-horma-con-pinchos_IronFox_IF-4500_4700-M.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/clavar/maqUs_clavar-plantas-a-horma-con-pinchos_IronFox_IF-4500_4700-M.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/clavar/maqUs_clavar-plantas-a-horma-con-pinchos_IronFox_IF-4500_4700-M.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/clavar/maqUs_clavar-plantas-a-horma-con-pinchos_IronFox_IF-4500_4700-M.htm</guid>
     </item>
 
    <item>
        <title>OCASIÓN: Máquina de Timbrar a Pedal 'D-G'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/timbrar-grabar/maqUs_timbrar-a-pedal_D-G_1m-v.jpg" length="9064" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/timbrar-grabar/maqUs_timbrar-a-pedal_D-G_1m-v.jpg" length="9064" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina de timbrar a pedal 'D-G'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/timbrar-grabar/maqUs_timbrar-a-pedal_D-G.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/timbrar-grabar/maqUs_timbrar-a-pedal_D-G.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/timbrar-grabar/maqUs_timbrar-a-pedal_D-G.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/timbrar-grabar/maqUs_timbrar-a-pedal_D-G.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina de Pegar Casco o Suelas con Doble Membrana 'BAVA 2012'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-casco-doble-membrana_BAVA_2012_1m-v.jpg" length="9930" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-casco-doble-membrana_BAVA_2012_1m-v.jpg" length="9930" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina de pegar casco/suelas con Doble Membrana 'BAVA 2012'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-casco-doble-membrana_BAVA_2012.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-casco-doble-membrana_BAVA_2012.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-casco-doble-membrana_BAVA_2012.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-casco-doble-membrana_BAVA_2012.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina de Pegar Casco con Doble Membrana PASANQUI 'S-501-DC1-S'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-casco-doble-membrana_PASANQUI_S-501-DC1-S_1m-v.jpg" length="10568" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-casco-doble-membrana_PASANQUI_S-501-DC1-S_1m-v.jpg" length="10568" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina de pegar suelas/casco con doble membrana PASANQUI 'S-501-DC1-S'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-casco-doble-membrana_PASANQUI_S-501-DC1-S.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-casco-doble-membrana_PASANQUI_S-501-DC1-S.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-casco-doble-membrana_PASANQUI_S-501-DC1-S.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-casco-doble-membrana_PASANQUI_S-501-DC1-S.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina de Pegar Entreforros con Plato Giratorio 'JR'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-entreforros-plato-giratorio_JR_1m-v.jpg" length="10109" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-entreforros-plato-giratorio_JR_1m-v.jpg" length="10109" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina de entretelar o pegar los entreforros del zapato 'JR'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-entreforros-plato-giratorio_JR.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-entreforros-plato-giratorio_JR.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-entreforros-plato-giratorio_JR.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-entreforros-plato-giratorio_JR.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina de Conformar Huecos en Calor y Frío 'DISA-83' (2)</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/conformar/maqUs_conformar-huecos-calor-frio_DISA-83_n2_1m-v.jpg" length="10665" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/conformar/maqUs_conformar-huecos-calor-frio_DISA-83_n2_1m-v.jpg" length="10665" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una segunda máquina para conformar los huecos del zapato en calor y frío 'DISA-83'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/conformar/maqUs_conformar-huecos-calor-frio_DISA-83_n2.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/conformar/maqUs_conformar-huecos-calor-frio_DISA-83_n2.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/conformar/maqUs_conformar-huecos-calor-frio_DISA-83_n2.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/conformar/maqUs_conformar-huecos-calor-frio_DISA-83_n2.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina de Coser de Columna 'FOMAX KDD-810'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/coser/maqUs_maquina-coser-columna_FOMAX_KDD-810_1m-v.jpg" length="11820" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/coser/maqUs_maquina-coser-columna_FOMAX_KDD-810_1m-v.jpg" length="11820" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina de coser de columna 'FOMAX KDD-810'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/coser/maqUs_maquina-coser-columna_FOMAX_KDD-810.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/coser/maqUs_maquina-coser-columna_FOMAX_KDD-810.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/coser/maqUs_maquina-coser-columna_FOMAX_KDD-810.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/coser/maqUs_maquina-coser-columna_FOMAX_KDD-810.htm</guid>
     </item>
 		
     <item>
        <title>OCASIÓN: Máquina para Poner Cinta de Refuerzo 'GLOBAL C-225'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/poner-cinta/maqUs_poner-cinta-refuerzo_GLOBAL_C-225_1m-v.jpg" length="8544" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/poner-cinta/maqUs_poner-cinta-refuerzo_GLOBAL_C-225_1m-v.jpg" length="8544" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina de poner cinta de Refuerzo al Zapato 'GLOBAL C-225'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/poner-cinta/maqUs_poner-cinta-refuerzo_GLOBAL_C-225.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/poner-cinta/maqUs_poner-cinta-refuerzo_GLOBAL_C-225.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/poner-cinta/maqUs_poner-cinta-refuerzo_GLOBAL_C-225.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/poner-cinta/maqUs_poner-cinta-refuerzo_GLOBAL_C-225.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina para Poner Cinta de Refuerzo 'RONA N-101'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/poner-cinta/maqUs_poner-cinta-refuerzo_RONA_N-101_1m-v.jpg" length="10403" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/poner-cinta/maqUs_poner-cinta-refuerzo_RONA_N-101_1m-v.jpg" length="10403" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina de poner cinta de Refuerzo al Zapato 'RONA N-101'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/poner-cinta/maqUs_poner-cinta-refuerzo_RONA_N-101.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/poner-cinta/maqUs_poner-cinta-refuerzo_RONA_N-101.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/poner-cinta/maqUs_poner-cinta-refuerzo_RONA_N-101.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/poner-cinta/maqUs_poner-cinta-refuerzo_RONA_N-101.htm</guid>
     </item>
 		
     <item>
        <title>OCASIÓN: Máquina de Lijar o Cardar 'ST'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquina-de-lijar_ST_1m-v.jpg" length="9131" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquina-de-lijar_ST_1m-v.jpg" length="9131" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina de lijar marca 'ST'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquina-de-lijar_ST.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquina-de-lijar_ST.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquina-de-lijar_ST.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/lijar-pulir/maqUs_maquina-de-lijar_ST.htm</guid>
     </item>
 		
     <item>
        <title>OCASIÓN: Máquina de Centrar y Montar Puntas ORMAC 'CHALLENGER 835'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/centrar/maqUs_centrar-y-montar-puntas_ORMAC_CHALLENGER_835_1m-v.jpg" length="10269" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/centrar/maqUs_centrar-y-montar-puntas_ORMAC_CHALLENGER_835_1m-v.jpg" length="10269" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina de centrar y montar las puntas del zapato 'ORMAC CHALLENGER 835'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/centrar/maqUs_centrar-y-montar-puntas_ORMAC_CHALLENGER_835.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/centrar/maqUs_centrar-y-montar-puntas_ORMAC_CHALLENGER_835.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/centrar/maqUs_centrar-y-montar-puntas_ORMAC_CHALLENGER_835.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/centrar/maqUs_centrar-y-montar-puntas_ORMAC_CHALLENGER_835.htm</guid>
     </item>
 		
     <item>
        <title>OCASIÓN: Máquina de Clavar Tacones Neumática SAREMA 'SIRIO'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/clavar/maqUs_clavar-tacones-neumatica_SAREMA_SIRIO_1m-v.jpg" length="7770" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/clavar/maqUs_clavar-tacones-neumatica_SAREMA_SIRIO_1m-v.jpg" length="7770" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina de clavar tacones neumática SAREMA 'SIRIO'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/clavar/maqUs_clavar-tacones-neumatica_SAREMA_SIRIO.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/clavar/maqUs_clavar-tacones-neumatica_SAREMA_SIRIO.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/clavar/maqUs_clavar-tacones-neumatica_SAREMA_SIRIO.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/clavar/maqUs_clavar-tacones-neumatica_SAREMA_SIRIO.htm</guid>
     </item>
 		
     <item>
        <title>OCASIÓN: Máquina de Cortar/Troquelar de Puente Hidraúlica ATOM 'S-525/3'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/cortar/maqUs_troqueladora-puente-hidraulica_ATOM_S-525-3_1m-v.jpg" length="11403" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/cortar/maqUs_troqueladora-puente-hidraulica_ATOM_S-525-3_1m-v.jpg" length="11403" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina de cortar/troquelar de puente (o carro) hidraúlica ATOM 'S-525/3'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/cortar/maqUs_troqueladora-puente-hidraulica_ATOM_S-525-3.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/cortar/maqUs_troqueladora-puente-hidraulica_ATOM_S-525-3.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/cortar/maqUs_troqueladora-puente-hidraulica_ATOM_S-525-3.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/cortar/maqUs_troqueladora-puente-hidraulica_ATOM_S-525-3.htm</guid>
     </item>
 		
     <item>
        <title>OCASIÓN: Máquina de Pegar Casco con dos Puestos de Trabajo PASANQUI 'S-501-2P'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-casco-2-puestos_PASANQUI_S-501-2P_1m-v.jpg" length="9181" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-casco-2-puestos_PASANQUI_S-501-2P_1m-v.jpg" length="9181" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina de pegar casco con una membrana y dos puestos de trabajo PASANQUI 'S-501-2P'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-casco-2-puestos_PASANQUI_S-501-2P.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-casco-2-puestos_PASANQUI_S-501-2P.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-casco-2-puestos_PASANQUI_S-501-2P.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-casco-2-puestos_PASANQUI_S-501-2P.htm</guid>
     </item>
 		
     <item>
        <title>OCASIÓN: Horno Acondicionador de Calzado EAS 'HC-4C'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_EAS_HC-4C_01mTn.jpg" length="8717" type="image/jpeg" height="168" width="224" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_EAS_HC-4C_01mTn.jpg" length="8717" type="image/jpeg" height="168" width="224" />
        <description>RaLoS, añade a su catálogo de maquinaria usada un horno acondicionador de calzado EAS 'HC-4C' en unas excelentes condiciones.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_EAS_HC-4C.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_EAS_HC-4C.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_EAS_HC-4C.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/hornos/maqUs_horno-acondicionador-calzado_EAS_HC-4C.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina de Pegar Casco (Una Membrana) PASANQUI 'S-501-E'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-casco-una-membrana_PASANQUI_S-501-E_1m-v.jpg" length="7815" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-casco-una-membrana_PASANQUI_S-501-E_1m-v.jpg" length="7815" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina de pegar casco con una membrana PASANQUI 'S-501-E'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-casco-una-membrana_PASANQUI_S-501-E.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-casco-una-membrana_PASANQUI_S-501-E.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-casco-una-membrana_PASANQUI_S-501-E.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/pegar/maqUs_pegar-casco-una-membrana_PASANQUI_S-501-E.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Máquina de Encolar Suelas con Rod. Flexible 'M-550'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/encolar/maqUs_encolar-suelas-rodillo-flexible_M-550_1m-v.jpg" length="9506" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/encolar/maqUs_encolar-suelas-rodillo-flexible_M-550_1m-v.jpg" length="9506" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada una máquina para encolar la suela del zapato con rodillo flexible 'M-550'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/encolar/maqUs_encolar-suelas-rodillo-flexible_M-550.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/encolar/maqUs_encolar-suelas-rodillo-flexible_M-550.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/encolar/maqUs_encolar-suelas-rodillo-flexible_M-550.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/encolar/maqUs_encolar-suelas-rodillo-flexible_M-550.htm</guid>
     </item>
 
 		<item>
        <title>NUEVA: Mesa o Grupo de Trabajo para Dar Latex al Zapato 'N1'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/encolar/maqNu_grupo-dar-latex_N1_1m-v.jpg" length="8763" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/encolar/maqNu_grupo-dar-latex_N1_1m-v.jpg" length="8763" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria nueva una mesa o grupo de trabajo para dar latex al zapato 'N1'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/encolar/maqNu_grupo-dar-latex_N1.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/encolar/maqNu_grupo-dar-latex_N1.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/encolar/maqNu_grupo-dar-latex_N1.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/encolar/maqNu_grupo-dar-latex_N1.htm</guid>
     </item>
 
     <item>
        <title>OCASIÓN: Reactivador de Puntas con Vapor AMORÓS 'AM-90'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_reactivador-de-puntas_AMOROS_AM-90_1m-v.jpg" length="9474" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_reactivador-de-puntas_AMOROS_AM-90_1m-v.jpg" length="9474" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria usada un reactivador de puntas con vapor AMORÓS 'AM-90'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_reactivador-de-puntas_AMOROS_AM-90.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_reactivador-de-puntas_AMOROS_AM-90.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_reactivador-de-puntas_AMOROS_AM-90.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/reactivar/maqUs_reactivador-de-puntas_AMOROS_AM-90.htm</guid>
     </item>
 
     <item>
        <title>NUEVA: Máquina de Pegar Casco con Doble Membrana PASANQUI 'S-501-DC1-B'</title>
-       <enclosure url="http://www.ralosmaquinaria.com/maquinas/pegar/maqNu_pegar-casco-doble-membrana_PASANQUI_S-501-DC1-B_1m-v.jpg" length="9806" type="image/jpeg" height="224" width="168" />
+       <enclosure url="https://www.ralosmaquinaria.com/maquinas/pegar/maqNu_pegar-casco-doble-membrana_PASANQUI_S-501-DC1-B_1m-v.jpg" length="9806" type="image/jpeg" height="224" width="168" />
        <description>RaLoS, añade a su catálogo de maquinaria nueva una máquina de pegar casco con doble membrana PASANQUI 'S-501-DC1-B'.</description>
-       <link>http://www.ralosmaquinaria.com/maquinas/pegar/maqNu_pegar-casco-doble-membrana_PASANQUI_S-501-DC1-B.htm</link>
-       <guid>http://www.ralosmaquinaria.com/maquinas/pegar/maqNu_pegar-casco-doble-membrana_PASANQUI_S-501-DC1-B.htm</guid>
+       <link>https://www.ralosmaquinaria.com/maquinas/pegar/maqNu_pegar-casco-doble-membrana_PASANQUI_S-501-DC1-B.htm</link>
+       <guid>https://www.ralosmaquinaria.com/maquinas/pegar/maqNu_pegar-casco-doble-membrana_PASANQUI_S-501-DC1-B.htm</guid>
     </item>
 
   </channel>
