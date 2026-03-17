@@ -359,7 +359,7 @@ body  sup, sub{
 	border-left-style: none;
 }*/
 #mCFixedMenuButtons #Button01 {
-	height: 16px;
+	height: 18px;
 	width: 68px;
 	top: 0px;
 	left: 5%;
@@ -372,7 +372,7 @@ body  sup, sub{
 	background-color: transparent;
 	margin: 0 auto;
 	visibility: visible;
-	line-height: 14px;
+	line-height: 17px;
 	background-image: url(assets/menuButtonsBg.png);
 	_background-image: url(assets/menuButtonsBg.gif);
 	background-repeat: repeat-x;
@@ -404,7 +404,7 @@ body  sup, sub{
 	border-color: #FFF;
 }*/
 #mCFixedMenuButtons #Button02 {
-	height: 16px;
+	height: 18px;
 	width: 68px;
 	top: 0px;
 	background-color: transparent;
@@ -418,7 +418,7 @@ body  sup, sub{
 	margin-right: auto;
 	left: 50%;
 	visibility: visible;
-	line-height: 14px;
+	line-height: 17px;
 	background-image: url(assets/menuButtonsBg.png);
 	_background-image: url(assets/menuButtonsBg.gif);
 	background-repeat: repeat-x;
@@ -427,7 +427,7 @@ body  sup, sub{
 	border-color: #FFF;
 }
 #mCFixedMenuButtons #Button03 {
-	height: 16px;
+	height: 18px;
 	width: 68px;
 	top: 0px;
 	background-color: transparent;
@@ -440,7 +440,7 @@ body  sup, sub{
 	margin: 0 auto;
 	visibility: visible;
 	right: 5%;
-	line-height: 14px;
+	line-height: 17px;
 	background-image: url(assets/menuButtonsBg.png);
 	_background-image: url(assets/menuButtonsBg.gif);
 	background-repeat: repeat-x;
@@ -1480,7 +1480,6 @@ div#productContainer a .spanPosFix {
 	height: auto;
 	max-width: 768px;
 	margin: 0px auto;
-
 	*margin-top:-16px;/*fixes a gap at the bottom of the liked images in IE*/
 	padding: 0px;
 	display: block;/*remove the below baseline space of images!*/
